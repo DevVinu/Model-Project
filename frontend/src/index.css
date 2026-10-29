@@ -1,0 +1,62 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+  /* Light Theme Neumorphism */
+  .neu-panel {
+    background: #e8ecf4;
+    box-shadow: 8px 8px 18px #c8d0dd, -8px -8px 18px #ffffff;
+    border-radius: 1.25rem;
+  }
+  .neu-card {
+    background: #e8ecf4;
+    box-shadow: 6px 6px 14px #c8d0dd, -6px -6px 14px #ffffff;
+    border-radius: 1rem;
+    transition: all 0.2s ease-in-out;
+  }
+  .neu-card:hover {
+    box-shadow: 8px 8px 18px #c1cad9, -8px -8px 18px #ffffff;
+  }
+  .neu-inset {
+    background: #e8ecf4;
+    box-shadow: inset 4px 4px 8px #c8d0dd, inset -4px -4px 8px #ffffff;
+    border-radius: 0.75rem;
+  }
+  .neu-btn {
+    background: #e8ecf4;
+    box-shadow: 5px 5px 10px #c8d0dd, -5px -5px 10px #ffffff;
+    border-radius: 0.75rem;
+    transition: all 0.15s ease;
+  }
+  .neu-btn:hover {
+    box-shadow: 6px 6px 12px #c2cbda, -6px -6px 12px #ffffff;
+  }
+  .neu-btn:active, .neu-btn-active {
+    box-shadow: inset 3px 3px 6px #c8d0dd, inset -3px -3px 6px #ffffff;
+  }
+
+  /* Dark Theme Neumorphism */
+  .dark .neu-panel {
+    background: #1c2028;
+    box-shadow: 8px 8px 18px #13161c, -8px -8px 18px #252a34;
+  }
+  .dark .neu-card {
+    background: #1c2028;
+    box-shadow: 6px 6px 14px #13161c, -6px -6px 14px #252a34;
+  }
+  .dark .neu-card:hover {
+    box-shadow: 8px 8px 18px #0f1116, -8px -8px 18px #292f3a;
+  }
+  .dark .neu-inset {
+    background: #1c2028;
+    box-shadow: inset 4px 4px 8px #13161c, inset -4px -4px 8px #252a34;
+  }
+  .dark .neu-btn {
+    background: #1c2028;
+    box-shadow: 5px 5px 10px #13161c, -5px -5px 10px #252a34;
+  }
+  .dark .neu-btn:active, .dark .neu-btn-active {
+    box-shadow: inset 3px 3px 6px #13161c, inset -3px -3px 6px #252a34;
+  }
+}

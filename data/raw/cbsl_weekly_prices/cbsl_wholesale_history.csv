@@ -1,0 +1,1201 @@
+date,commodity,wholesale_price_lkr,retail_price_lkr,market_location,data_source
+2023-01-01,Samba Rice,212.34,244.72,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-01-01,Nadu Rice,191.49,224.49,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-01-01,Red Dhal,336.24,409.43,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-01-01,Potatoes (Local),288.78,334.61,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-01-01,Big Onions (Imported),238.5,274.99,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-01-01,Sugar (White),229.71,275.78,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-01-08,Samba Rice,202.05,236.38,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-01-08,Nadu Rice,197.34,237.69,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-01-08,Red Dhal,322.62,390.02,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-01-08,Potatoes (Local),286.93,330.16,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-01-08,Big Onions (Imported),245.87,299.92,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-01-08,Sugar (White),232.0,270.41,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-01-15,Samba Rice,217.68,257.66,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-01-15,Nadu Rice,188.65,218.77,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-01-15,Red Dhal,339.17,410.52,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-01-15,Potatoes (Local),286.88,350.85,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-01-15,Big Onions (Imported),240.7,300.23,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-01-15,Sugar (White),232.72,280.48,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-01-22,Samba Rice,215.53,261.19,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-01-22,Nadu Rice,200.64,242.32,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-01-22,Red Dhal,335.4,387.25,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-01-22,Potatoes (Local),273.9,322.91,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-01-22,Big Onions (Imported),231.93,272.12,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-01-22,Sugar (White),227.5,267.95,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-01-29,Samba Rice,212.28,251.87,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-01-29,Nadu Rice,192.97,225.96,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-01-29,Red Dhal,323.85,402.76,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-01-29,Potatoes (Local),283.32,343.08,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-01-29,Big Onions (Imported),233.69,285.78,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-01-29,Sugar (White),228.67,271.65,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-02-05,Samba Rice,211.68,256.98,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-02-05,Nadu Rice,190.01,231.52,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-02-05,Red Dhal,328.88,403.73,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-02-05,Potatoes (Local),265.71,306.42,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-02-05,Big Onions (Imported),229.36,269.9,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-02-05,Sugar (White),222.68,277.08,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-02-12,Samba Rice,209.83,247.91,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-02-12,Nadu Rice,191.5,227.8,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-02-12,Red Dhal,330.72,395.5,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-02-12,Potatoes (Local),266.49,313.04,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-02-12,Big Onions (Imported),233.94,275.18,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-02-12,Sugar (White),229.49,284.52,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-02-19,Samba Rice,202.06,236.8,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-02-19,Nadu Rice,196.68,236.2,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-02-19,Red Dhal,309.62,357.52,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-02-19,Potatoes (Local),263.12,319.1,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-02-19,Big Onions (Imported),238.24,284.03,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-02-19,Sugar (White),219.99,261.38,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-02-26,Samba Rice,211.78,254.75,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-02-26,Nadu Rice,196.28,242.62,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-02-26,Red Dhal,307.59,375.9,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-02-26,Potatoes (Local),275.55,331.68,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-02-26,Big Onions (Imported),228.46,277.37,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-02-26,Sugar (White),220.87,263.6,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-03-05,Samba Rice,202.95,252.75,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-03-05,Nadu Rice,194.84,229.2,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-03-05,Red Dhal,320.12,373.86,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-03-05,Potatoes (Local),280.57,347.08,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-03-05,Big Onions (Imported),229.05,278.04,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-03-05,Sugar (White),229.94,267.95,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-03-12,Samba Rice,207.98,250.4,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-03-12,Nadu Rice,193.37,232.63,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-03-12,Red Dhal,307.31,363.37,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-03-12,Potatoes (Local),261.16,324.6,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-03-12,Big Onions (Imported),239.85,295.77,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-03-12,Sugar (White),224.44,259.41,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-03-19,Samba Rice,209.86,261.21,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-03-19,Nadu Rice,182.88,219.2,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-03-19,Red Dhal,309.07,378.94,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-03-19,Potatoes (Local),277.38,322.55,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-03-19,Big Onions (Imported),232.34,279.97,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-03-19,Sugar (White),223.67,276.73,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-03-26,Samba Rice,202.45,237.11,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-03-26,Nadu Rice,189.74,232.05,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-03-26,Red Dhal,312.45,369.06,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-03-26,Potatoes (Local),282.36,343.06,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-03-26,Big Onions (Imported),231.65,278.39,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-03-26,Sugar (White),221.04,259.16,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-04-02,Samba Rice,221.79,268.11,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-04-02,Nadu Rice,204.15,239.27,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-04-02,Red Dhal,340.98,413.65,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-04-02,Potatoes (Local),293.1,363.6,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-04-02,Big Onions (Imported),264.19,305.69,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-04-02,Sugar (White),246.18,299.58,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-04-09,Samba Rice,219.56,255.4,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-04-09,Nadu Rice,215.92,260.64,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-04-09,Red Dhal,352.33,432.82,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-04-09,Potatoes (Local),306.97,358.86,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-04-09,Big Onions (Imported),248.52,296.51,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-04-09,Sugar (White),249.91,299.07,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-04-16,Samba Rice,228.82,278.55,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-04-16,Nadu Rice,216.73,251.37,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-04-16,Red Dhal,350.35,414.79,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-04-16,Potatoes (Local),308.27,362.18,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-04-16,Big Onions (Imported),250.44,299.24,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-04-16,Sugar (White),249.88,294.32,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-04-23,Samba Rice,220.2,273.56,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-04-23,Nadu Rice,207.7,256.75,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-04-23,Red Dhal,354.52,409.49,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-04-23,Potatoes (Local),311.57,384.35,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-04-23,Big Onions (Imported),266.44,331.09,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-04-23,Sugar (White),258.46,301.53,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-04-30,Samba Rice,224.44,262.9,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-04-30,Nadu Rice,207.0,239.26,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-04-30,Red Dhal,349.68,436.59,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-04-30,Potatoes (Local),293.97,361.11,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-04-30,Big Onions (Imported),255.88,305.09,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-04-30,Sugar (White),260.65,325.69,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-05-07,Samba Rice,210.94,257.74,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-05-07,Nadu Rice,189.61,223.68,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-05-07,Red Dhal,342.37,413.55,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-05-07,Potatoes (Local),280.95,344.11,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-05-07,Big Onions (Imported),231.5,279.75,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-05-07,Sugar (White),235.05,290.35,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-05-14,Samba Rice,204.24,254.5,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-05-14,Nadu Rice,188.45,220.22,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-05-14,Red Dhal,332.51,404.84,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-05-14,Potatoes (Local),274.07,318.47,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-05-14,Big Onions (Imported),247.49,290.71,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-05-14,Sugar (White),236.78,286.96,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-05-21,Samba Rice,208.64,252.11,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-05-21,Nadu Rice,195.36,242.92,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-05-21,Red Dhal,322.19,393.59,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-05-21,Potatoes (Local),274.15,326.12,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-05-21,Big Onions (Imported),243.3,287.09,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-05-21,Sugar (White),231.54,283.68,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-05-28,Samba Rice,202.82,242.54,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-05-28,Nadu Rice,202.78,253.4,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-05-28,Red Dhal,318.73,373.33,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-05-28,Potatoes (Local),274.74,341.59,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-05-28,Big Onions (Imported),247.31,306.15,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-05-28,Sugar (White),232.55,271.1,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-06-04,Samba Rice,215.61,263.12,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-06-04,Nadu Rice,196.74,245.67,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-06-04,Red Dhal,334.06,384.43,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-06-04,Potatoes (Local),287.1,338.76,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-06-04,Big Onions (Imported),243.14,302.44,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-06-04,Sugar (White),228.12,264.97,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-06-11,Samba Rice,203.4,245.16,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-06-11,Nadu Rice,191.45,231.75,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-06-11,Red Dhal,335.74,392.94,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-06-11,Potatoes (Local),283.01,332.93,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-06-11,Big Onions (Imported),239.78,297.46,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-06-11,Sugar (White),241.51,279.97,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-06-18,Samba Rice,208.72,245.8,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-06-18,Nadu Rice,187.26,229.79,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-06-18,Red Dhal,333.62,392.4,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-06-18,Potatoes (Local),285.4,343.95,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-06-18,Big Onions (Imported),238.61,274.63,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-06-18,Sugar (White),227.01,281.11,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-06-25,Samba Rice,216.79,261.14,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-06-25,Nadu Rice,200.22,241.92,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-06-25,Red Dhal,320.71,372.9,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-06-25,Potatoes (Local),275.7,341.84,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-06-25,Big Onions (Imported),245.69,303.69,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-06-25,Sugar (White),242.5,283.97,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-07-02,Samba Rice,199.62,231.61,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-07-02,Nadu Rice,193.39,239.5,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-07-02,Red Dhal,317.7,385.07,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-07-02,Potatoes (Local),264.09,328.26,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-07-02,Big Onions (Imported),239.59,298.92,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-07-02,Sugar (White),233.62,289.25,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-07-09,Samba Rice,195.96,239.79,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-07-09,Nadu Rice,186.61,231.97,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-07-09,Red Dhal,327.84,405.34,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-07-09,Potatoes (Local),278.35,327.53,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-07-09,Big Onions (Imported),238.15,276.45,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-07-09,Sugar (White),234.74,290.11,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-07-16,Samba Rice,199.18,245.32,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-07-16,Nadu Rice,188.55,222.59,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-07-16,Red Dhal,327.66,384.27,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-07-16,Potatoes (Local),261.25,305.48,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-07-16,Big Onions (Imported),229.6,283.89,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-07-16,Sugar (White),236.46,278.53,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-07-23,Samba Rice,206.01,245.15,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-07-23,Nadu Rice,196.43,236.43,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-07-23,Red Dhal,331.35,384.87,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-07-23,Potatoes (Local),281.82,329.13,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-07-23,Big Onions (Imported),241.41,284.03,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-07-23,Sugar (White),220.81,263.53,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-07-30,Samba Rice,207.42,245.04,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-07-30,Nadu Rice,190.76,229.13,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-07-30,Red Dhal,317.16,383.02,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-07-30,Potatoes (Local),266.27,325.08,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-07-30,Big Onions (Imported),223.52,277.74,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-07-30,Sugar (White),228.65,279.4,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-08-06,Samba Rice,214.06,260.52,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-08-06,Nadu Rice,192.88,223.16,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-08-06,Red Dhal,334.34,395.53,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-08-06,Potatoes (Local),275.83,340.6,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-08-06,Big Onions (Imported),244.22,288.19,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-08-06,Sugar (White),231.41,275.57,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-08-13,Samba Rice,208.36,245.77,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-08-13,Nadu Rice,189.19,225.52,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-08-13,Red Dhal,341.63,416.01,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-08-13,Potatoes (Local),289.02,350.16,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-08-13,Big Onions (Imported),236.18,284.55,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-08-13,Sugar (White),225.61,265.92,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-08-20,Samba Rice,208.82,252.25,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-08-20,Nadu Rice,197.41,236.2,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-08-20,Red Dhal,328.47,384.76,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-08-20,Potatoes (Local),279.4,346.49,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-08-20,Big Onions (Imported),245.68,286.7,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-08-20,Sugar (White),227.19,272.98,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-08-27,Samba Rice,212.23,251.18,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-08-27,Nadu Rice,199.97,244.99,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-08-27,Red Dhal,334.56,392.26,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-08-27,Potatoes (Local),273.26,314.92,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-08-27,Big Onions (Imported),235.1,281.54,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-08-27,Sugar (White),241.58,279.58,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-09-03,Samba Rice,208.56,252.98,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-09-03,Nadu Rice,190.23,232.01,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-09-03,Red Dhal,329.85,387.38,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-09-03,Potatoes (Local),283.5,326.18,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-09-03,Big Onions (Imported),244.82,300.4,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-09-03,Sugar (White),227.6,271.42,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-09-10,Samba Rice,204.55,254.83,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-09-10,Nadu Rice,195.28,225.55,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-09-10,Red Dhal,323.38,399.32,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-09-10,Potatoes (Local),279.02,343.23,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-09-10,Big Onions (Imported),243.22,303.73,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-09-10,Sugar (White),236.79,294.8,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-09-17,Samba Rice,216.58,262.34,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-09-17,Nadu Rice,198.42,238.2,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-09-17,Red Dhal,338.73,408.1,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-09-17,Potatoes (Local),288.9,353.72,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-09-17,Big Onions (Imported),239.51,281.64,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-09-17,Sugar (White),230.25,279.47,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-09-24,Samba Rice,214.47,257.82,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-09-24,Nadu Rice,196.98,231.94,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-09-24,Red Dhal,318.85,375.79,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-09-24,Potatoes (Local),274.89,324.91,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-09-24,Big Onions (Imported),240.77,280.22,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-09-24,Sugar (White),229.95,280.4,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-10-01,Samba Rice,213.47,246.86,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-10-01,Nadu Rice,193.56,233.1,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-10-01,Red Dhal,327.78,383.73,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-10-01,Potatoes (Local),278.21,345.12,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-10-01,Big Onions (Imported),241.61,294.66,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-10-01,Sugar (White),241.71,296.47,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-10-08,Samba Rice,207.99,239.31,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-10-08,Nadu Rice,192.69,236.11,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-10-08,Red Dhal,339.33,422.58,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-10-08,Potatoes (Local),278.19,340.71,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-10-08,Big Onions (Imported),240.89,291.56,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-10-08,Sugar (White),229.75,269.25,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-10-15,Samba Rice,208.92,240.86,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-10-15,Nadu Rice,192.44,234.38,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-10-15,Red Dhal,327.47,382.0,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-10-15,Potatoes (Local),279.27,324.72,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-10-15,Big Onions (Imported),242.35,279.36,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-10-15,Sugar (White),233.01,281.11,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-10-22,Samba Rice,202.06,245.36,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-10-22,Nadu Rice,189.32,226.46,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-10-22,Red Dhal,318.13,377.91,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-10-22,Potatoes (Local),273.54,323.51,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-10-22,Big Onions (Imported),245.02,291.06,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-10-22,Sugar (White),239.74,295.65,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-10-29,Samba Rice,205.84,238.4,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-10-29,Nadu Rice,187.5,225.74,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-10-29,Red Dhal,343.2,406.69,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-10-29,Potatoes (Local),283.36,348.0,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-10-29,Big Onions (Imported),242.91,297.67,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-10-29,Sugar (White),243.45,284.82,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-11-05,Samba Rice,216.08,251.78,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-11-05,Nadu Rice,202.41,246.32,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-11-05,Red Dhal,354.91,415.88,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-11-05,Potatoes (Local),304.38,373.38,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-11-05,Big Onions (Imported),249.98,302.66,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-11-05,Sugar (White),256.44,297.84,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-11-12,Samba Rice,230.44,287.24,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-11-12,Nadu Rice,202.11,232.95,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-11-12,Red Dhal,347.79,423.52,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-11-12,Potatoes (Local),310.58,369.49,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-11-12,Big Onions (Imported),261.22,302.39,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-11-12,Sugar (White),255.28,309.58,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-11-19,Samba Rice,217.54,266.98,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-11-19,Nadu Rice,214.5,259.55,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-11-19,Red Dhal,342.4,427.45,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-11-19,Potatoes (Local),306.37,362.96,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-11-19,Big Onions (Imported),255.33,303.09,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-11-19,Sugar (White),251.57,297.89,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-11-26,Samba Rice,230.98,284.62,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-11-26,Nadu Rice,202.07,251.8,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-11-26,Red Dhal,356.93,440.05,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-11-26,Potatoes (Local),304.57,363.52,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-11-26,Big Onions (Imported),261.6,326.1,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-11-26,Sugar (White),246.82,303.79,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-12-03,Samba Rice,225.39,270.1,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-12-03,Nadu Rice,207.57,253.88,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-12-03,Red Dhal,346.56,428.06,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-12-03,Potatoes (Local),307.53,356.32,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-12-03,Big Onions (Imported),264.64,310.79,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-12-03,Sugar (White),250.74,303.65,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-12-10,Samba Rice,222.52,256.54,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-12-10,Nadu Rice,214.51,250.59,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-12-10,Red Dhal,344.97,424.24,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-12-10,Potatoes (Local),295.77,366.17,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-12-10,Big Onions (Imported),260.93,307.28,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-12-10,Sugar (White),241.6,300.75,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-12-17,Samba Rice,217.25,265.48,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-12-17,Nadu Rice,208.46,255.53,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-12-17,Red Dhal,358.48,435.41,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-12-17,Potatoes (Local),299.38,368.03,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-12-17,Big Onions (Imported),248.44,291.21,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-12-17,Sugar (White),255.31,301.42,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-12-24,Samba Rice,226.17,270.8,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-12-24,Nadu Rice,209.17,249.45,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-12-24,Red Dhal,360.05,425.97,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-12-24,Potatoes (Local),304.46,358.38,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-12-24,Big Onions (Imported),251.69,292.48,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-12-24,Sugar (White),245.27,284.99,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-12-31,Samba Rice,225.34,276.32,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-12-31,Nadu Rice,203.39,238.3,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-12-31,Red Dhal,352.65,431.1,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-12-31,Potatoes (Local),311.02,373.99,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-12-31,Big Onions (Imported),252.34,292.73,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2023-12-31,Sugar (White),245.3,287.68,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-01-07,Samba Rice,220.98,254.44,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-01-07,Nadu Rice,211.18,248.65,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-01-07,Red Dhal,369.92,445.88,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-01-07,Potatoes (Local),307.18,357.14,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-01-07,Big Onions (Imported),266.84,319.96,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-01-07,Sugar (White),261.37,315.58,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-01-14,Samba Rice,226.24,270.14,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-01-14,Nadu Rice,205.28,237.13,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-01-14,Red Dhal,368.98,441.95,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-01-14,Potatoes (Local),310.19,369.15,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-01-14,Big Onions (Imported),250.37,303.68,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-01-14,Sugar (White),244.74,285.1,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-01-21,Samba Rice,227.94,269.06,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-01-21,Nadu Rice,218.92,254.35,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-01-21,Red Dhal,363.94,440.6,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-01-21,Potatoes (Local),309.43,362.83,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-01-21,Big Onions (Imported),259.67,310.32,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-01-21,Sugar (White),252.64,312.27,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-01-28,Samba Rice,235.69,278.24,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-01-28,Nadu Rice,212.64,257.5,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-01-28,Red Dhal,363.25,452.16,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-01-28,Potatoes (Local),295.33,345.86,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-01-28,Big Onions (Imported),262.53,306.03,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-01-28,Sugar (White),247.18,286.11,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-02-04,Samba Rice,211.24,252.44,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-02-04,Nadu Rice,205.82,242.69,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-02-04,Red Dhal,338.28,412.94,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-02-04,Potatoes (Local),298.09,356.34,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-02-04,Big Onions (Imported),255.19,317.05,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-02-04,Sugar (White),251.85,305.37,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-02-11,Samba Rice,222.83,277.06,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-02-11,Nadu Rice,203.06,244.58,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-02-11,Red Dhal,349.79,434.03,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-02-11,Potatoes (Local),300.99,348.29,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-02-11,Big Onions (Imported),244.7,288.93,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-02-11,Sugar (White),251.09,303.05,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-02-18,Samba Rice,216.28,251.41,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-02-18,Nadu Rice,207.37,252.99,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-02-18,Red Dhal,357.95,429.56,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-02-18,Potatoes (Local),293.18,339.52,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-02-18,Big Onions (Imported),242.17,288.96,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-02-18,Sugar (White),242.69,285.17,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-02-25,Samba Rice,212.8,265.19,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-02-25,Nadu Rice,209.77,253.3,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-02-25,Red Dhal,358.18,447.71,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-02-25,Potatoes (Local),297.37,349.99,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-02-25,Big Onions (Imported),242.18,296.82,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-02-25,Sugar (White),245.61,298.45,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-03-03,Samba Rice,227.32,265.54,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-03-03,Nadu Rice,205.68,249.59,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-03-03,Red Dhal,345.48,400.45,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-03-03,Potatoes (Local),289.76,342.88,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-03-03,Big Onions (Imported),254.85,314.94,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-03-03,Sugar (White),242.83,296.1,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-03-10,Samba Rice,216.27,269.15,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-03-10,Nadu Rice,209.41,252.34,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-03-10,Red Dhal,344.46,406.96,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-03-10,Potatoes (Local),289.18,360.61,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-03-10,Big Onions (Imported),249.5,299.76,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-03-10,Sugar (White),255.8,310.99,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-03-17,Samba Rice,220.75,262.98,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-03-17,Nadu Rice,199.18,236.26,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-03-17,Red Dhal,352.8,427.78,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-03-17,Potatoes (Local),299.43,350.44,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-03-17,Big Onions (Imported),252.41,313.69,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-03-17,Sugar (White),244.97,298.82,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-03-24,Samba Rice,213.33,266.09,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-03-24,Nadu Rice,206.06,241.9,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-03-24,Red Dhal,336.26,405.22,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-03-24,Potatoes (Local),294.55,341.48,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-03-24,Big Onions (Imported),261.33,324.39,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-03-24,Sugar (White),245.43,285.13,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-03-31,Samba Rice,225.84,270.97,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-03-31,Nadu Rice,207.82,249.57,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-03-31,Red Dhal,339.44,418.69,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-03-31,Potatoes (Local),304.6,357.71,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-03-31,Big Onions (Imported),252.46,300.01,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-03-31,Sugar (White),254.49,305.6,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-04-07,Samba Rice,250.04,309.15,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-04-07,Nadu Rice,221.31,271.99,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-04-07,Red Dhal,378.75,470.95,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-04-07,Potatoes (Local),323.77,398.9,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-04-07,Big Onions (Imported),272.53,321.55,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-04-07,Sugar (White),273.45,341.78,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-04-14,Samba Rice,242.47,282.44,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-04-14,Nadu Rice,226.04,267.75,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-04-14,Red Dhal,382.93,461.18,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-04-14,Potatoes (Local),322.41,381.15,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-04-14,Big Onions (Imported),270.44,329.87,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-04-14,Sugar (White),273.13,320.48,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-04-21,Samba Rice,248.03,286.32,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-04-21,Nadu Rice,229.75,280.42,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-04-21,Red Dhal,390.85,464.57,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-04-21,Potatoes (Local),327.81,403.89,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-04-21,Big Onions (Imported),288.01,345.48,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-04-21,Sugar (White),261.51,313.87,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-04-28,Samba Rice,244.43,302.35,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-04-28,Nadu Rice,232.09,277.12,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-04-28,Red Dhal,382.14,456.92,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-04-28,Potatoes (Local),329.33,392.23,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-04-28,Big Onions (Imported),280.78,327.23,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-04-28,Sugar (White),270.9,337.79,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-05-05,Samba Rice,223.87,272.96,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-05-05,Nadu Rice,213.12,263.24,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-05-05,Red Dhal,366.45,452.91,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-05-05,Potatoes (Local),299.5,353.91,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-05-05,Big Onions (Imported),263.74,323.33,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-05-05,Sugar (White),261.36,301.5,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-05-12,Samba Rice,218.97,265.64,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-05-12,Nadu Rice,217.69,272.06,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-05-12,Red Dhal,363.44,433.73,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-05-12,Potatoes (Local),292.69,355.14,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-05-12,Big Onions (Imported),266.93,318.81,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-05-12,Sugar (White),257.74,319.69,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-05-19,Samba Rice,218.56,268.74,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-05-19,Nadu Rice,207.12,245.95,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-05-19,Red Dhal,346.29,416.63,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-05-19,Potatoes (Local),303.99,373.68,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-05-19,Big Onions (Imported),252.36,292.21,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-05-19,Sugar (White),261.33,316.72,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-05-26,Samba Rice,222.1,275.69,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-05-26,Nadu Rice,204.59,244.71,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-05-26,Red Dhal,349.39,410.72,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-05-26,Potatoes (Local),290.53,357.49,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-05-26,Big Onions (Imported),267.52,325.78,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-05-26,Sugar (White),246.86,294.79,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-06-02,Samba Rice,224.0,270.76,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-06-02,Nadu Rice,212.94,253.92,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-06-02,Red Dhal,349.27,431.18,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-06-02,Potatoes (Local),295.12,350.74,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-06-02,Big Onions (Imported),258.85,303.82,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-06-02,Sugar (White),255.26,308.22,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-06-09,Samba Rice,235.74,278.06,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-06-09,Nadu Rice,218.65,265.84,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-06-09,Red Dhal,349.97,422.27,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-06-09,Potatoes (Local),306.89,375.78,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-06-09,Big Onions (Imported),249.85,302.48,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-06-09,Sugar (White),253.73,314.73,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-06-16,Samba Rice,222.92,274.17,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-06-16,Nadu Rice,212.4,251.74,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-06-16,Red Dhal,360.3,436.72,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-06-16,Potatoes (Local),306.7,374.82,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-06-16,Big Onions (Imported),262.5,323.88,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-06-16,Sugar (White),256.4,318.02,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-06-23,Samba Rice,229.46,270.97,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-06-23,Nadu Rice,209.6,253.19,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-06-23,Red Dhal,363.03,420.76,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-06-23,Potatoes (Local),297.44,364.29,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-06-23,Big Onions (Imported),252.47,293.68,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-06-23,Sugar (White),254.6,317.52,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-06-30,Samba Rice,227.36,282.23,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-06-30,Nadu Rice,216.17,254.15,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-06-30,Red Dhal,365.66,438.13,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-06-30,Potatoes (Local),309.81,379.41,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-06-30,Big Onions (Imported),255.86,297.19,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-06-30,Sugar (White),263.2,306.38,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-07-07,Samba Rice,228.21,282.07,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-07-07,Nadu Rice,207.95,259.52,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-07-07,Red Dhal,358.63,441.28,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-07-07,Potatoes (Local),290.18,356.65,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-07-07,Big Onions (Imported),241.65,290.86,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-07-07,Sugar (White),245.3,298.6,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-07-14,Samba Rice,223.03,269.52,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-07-14,Nadu Rice,209.55,260.69,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-07-14,Red Dhal,334.88,392.94,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-07-14,Potatoes (Local),282.18,349.46,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-07-14,Big Onions (Imported),252.66,313.68,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-07-14,Sugar (White),240.7,278.33,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-07-21,Samba Rice,225.7,280.08,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-07-21,Nadu Rice,201.05,239.42,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-07-21,Red Dhal,335.75,417.88,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-07-21,Potatoes (Local),288.74,346.28,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-07-21,Big Onions (Imported),243.32,301.41,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-07-21,Sugar (White),239.01,285.7,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-07-28,Samba Rice,223.0,273.02,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-07-28,Nadu Rice,211.57,252.17,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-07-28,Red Dhal,352.41,410.72,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-07-28,Potatoes (Local),291.33,337.91,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-07-28,Big Onions (Imported),251.21,299.14,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-07-28,Sugar (White),255.08,294.18,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-08-04,Samba Rice,224.45,268.07,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-08-04,Nadu Rice,218.19,269.58,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-08-04,Red Dhal,344.98,420.38,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-08-04,Potatoes (Local),303.48,378.68,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-08-04,Big Onions (Imported),256.27,304.91,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-08-04,Sugar (White),247.5,287.65,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-08-11,Samba Rice,233.11,278.68,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-08-11,Nadu Rice,213.34,259.03,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-08-11,Red Dhal,359.17,413.81,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-08-11,Potatoes (Local),309.34,363.28,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-08-11,Big Onions (Imported),251.44,303.35,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-08-11,Sugar (White),245.04,300.55,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-08-18,Samba Rice,221.49,259.5,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-08-18,Nadu Rice,216.83,256.48,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-08-18,Red Dhal,346.35,429.49,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-08-18,Potatoes (Local),290.37,358.85,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-08-18,Big Onions (Imported),251.83,292.88,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-08-18,Sugar (White),248.74,290.39,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-08-25,Samba Rice,229.72,264.77,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-08-25,Nadu Rice,202.43,248.79,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-08-25,Red Dhal,348.93,412.57,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-08-25,Potatoes (Local),294.52,340.24,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-08-25,Big Onions (Imported),264.21,317.74,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-08-25,Sugar (White),258.79,309.93,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-09-01,Samba Rice,231.84,278.51,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-09-01,Nadu Rice,204.01,244.89,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-09-01,Red Dhal,369.1,426.07,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-09-01,Potatoes (Local),309.25,382.45,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-09-01,Big Onions (Imported),259.64,310.48,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-09-01,Sugar (White),263.22,304.3,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-09-08,Samba Rice,226.42,269.48,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-09-08,Nadu Rice,213.74,256.28,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-09-08,Red Dhal,368.08,426.0,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-09-08,Potatoes (Local),292.26,353.88,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-09-08,Big Onions (Imported),250.19,294.6,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-09-08,Sugar (White),256.5,309.04,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-09-15,Samba Rice,223.63,279.42,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-09-15,Nadu Rice,211.11,252.35,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-09-15,Red Dhal,359.41,416.89,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-09-15,Potatoes (Local),307.28,379.58,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-09-15,Big Onions (Imported),262.33,321.85,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-09-15,Sugar (White),258.28,302.58,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-09-22,Samba Rice,225.92,264.97,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-09-22,Nadu Rice,207.89,248.5,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-09-22,Red Dhal,354.0,410.47,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-09-22,Potatoes (Local),300.63,365.72,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-09-22,Big Onions (Imported),256.59,299.0,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-09-22,Sugar (White),262.39,303.51,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-09-29,Samba Rice,232.82,269.91,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-09-29,Nadu Rice,203.8,249.43,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-09-29,Red Dhal,365.29,440.41,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-09-29,Potatoes (Local),304.49,367.26,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-09-29,Big Onions (Imported),255.67,297.15,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-09-29,Sugar (White),250.83,305.14,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-10-06,Samba Rice,231.34,286.12,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-10-06,Nadu Rice,214.32,267.22,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-10-06,Red Dhal,359.26,425.78,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-10-06,Potatoes (Local),304.29,356.41,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-10-06,Big Onions (Imported),262.45,307.7,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-10-06,Sugar (White),245.85,303.51,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-10-13,Samba Rice,224.4,275.17,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-10-13,Nadu Rice,211.85,260.73,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-10-13,Red Dhal,366.24,456.87,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-10-13,Potatoes (Local),310.1,375.64,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-10-13,Big Onions (Imported),262.16,302.17,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-10-13,Sugar (White),262.51,323.66,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-10-20,Samba Rice,222.58,259.98,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-10-20,Nadu Rice,214.02,252.74,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-10-20,Red Dhal,351.83,404.82,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-10-20,Potatoes (Local),311.35,375.68,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-10-20,Big Onions (Imported),257.14,299.36,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-10-20,Sugar (White),256.5,295.76,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-10-27,Samba Rice,231.27,270.94,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-10-27,Nadu Rice,209.25,247.77,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-10-27,Red Dhal,352.69,431.04,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-10-27,Potatoes (Local),309.1,373.01,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-10-27,Big Onions (Imported),250.59,289.5,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-10-27,Sugar (White),246.84,299.12,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-11-03,Samba Rice,246.05,289.65,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-11-03,Nadu Rice,228.26,273.58,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-11-03,Red Dhal,379.58,446.89,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-11-03,Potatoes (Local),330.17,383.45,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-11-03,Big Onions (Imported),275.79,324.97,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-11-03,Sugar (White),275.44,330.16,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-11-10,Samba Rice,245.92,283.92,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-11-10,Nadu Rice,223.45,270.36,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-11-10,Red Dhal,366.33,432.32,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-11-10,Potatoes (Local),316.09,367.84,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-11-10,Big Onions (Imported),271.92,321.63,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-11-10,Sugar (White),260.87,319.49,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-11-17,Samba Rice,236.38,280.82,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-11-17,Nadu Rice,229.01,274.82,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-11-17,Red Dhal,391.52,481.81,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-11-17,Potatoes (Local),312.49,386.29,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-11-17,Big Onions (Imported),267.19,307.77,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-11-17,Sugar (White),280.72,347.03,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-11-24,Samba Rice,244.15,294.77,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-11-24,Nadu Rice,229.12,273.06,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-11-24,Red Dhal,369.61,425.82,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-11-24,Potatoes (Local),319.03,392.45,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-11-24,Big Onions (Imported),279.96,345.25,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-11-24,Sugar (White),280.69,325.27,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-12-01,Samba Rice,249.36,292.83,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-12-01,Nadu Rice,226.94,272.87,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-12-01,Red Dhal,378.17,446.63,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-12-01,Potatoes (Local),319.41,377.96,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-12-01,Big Onions (Imported),269.98,324.26,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-12-01,Sugar (White),263.18,316.08,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-12-08,Samba Rice,250.56,296.9,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-12-08,Nadu Rice,229.44,282.65,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-12-08,Red Dhal,390.96,458.84,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-12-08,Potatoes (Local),314.42,367.79,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-12-08,Big Onions (Imported),279.62,342.82,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-12-08,Sugar (White),274.94,321.05,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-12-15,Samba Rice,247.97,297.42,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-12-15,Nadu Rice,229.93,281.89,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-12-15,Red Dhal,379.79,471.86,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-12-15,Potatoes (Local),325.24,394.69,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-12-15,Big Onions (Imported),280.11,346.33,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-12-15,Sugar (White),274.33,319.62,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-12-22,Samba Rice,234.29,279.79,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-12-22,Nadu Rice,221.79,261.15,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-12-22,Red Dhal,367.81,441.64,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-12-22,Potatoes (Local),318.66,380.86,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-12-22,Big Onions (Imported),267.51,329.89,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-12-22,Sugar (White),262.37,324.4,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-12-29,Samba Rice,249.57,302.35,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-12-29,Nadu Rice,225.47,269.72,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-12-29,Red Dhal,383.01,470.79,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-12-29,Potatoes (Local),333.82,398.91,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-12-29,Big Onions (Imported),284.22,345.38,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2024-12-29,Sugar (White),267.69,320.58,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-01-05,Samba Rice,236.8,273.79,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-01-05,Nadu Rice,219.02,271.57,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-01-05,Red Dhal,378.01,461.71,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-01-05,Potatoes (Local),324.92,379.26,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-01-05,Big Onions (Imported),272.78,325.64,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-01-05,Sugar (White),271.28,326.15,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-01-12,Samba Rice,236.95,281.33,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-01-12,Nadu Rice,222.27,264.7,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-01-12,Red Dhal,377.85,457.12,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-01-12,Potatoes (Local),332.32,403.68,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-01-12,Big Onions (Imported),268.73,311.58,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-01-12,Sugar (White),276.49,325.82,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-01-19,Samba Rice,247.96,301.43,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-01-19,Nadu Rice,233.55,288.98,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-01-19,Red Dhal,377.7,456.37,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-01-19,Potatoes (Local),315.48,373.84,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-01-19,Big Onions (Imported),288.82,352.32,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-01-19,Sugar (White),270.24,326.86,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-01-26,Samba Rice,252.14,297.77,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-01-26,Nadu Rice,223.97,275.3,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-01-26,Red Dhal,392.39,477.54,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-01-26,Potatoes (Local),333.35,407.98,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-01-26,Big Onions (Imported),282.53,339.78,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-01-26,Sugar (White),275.78,328.82,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-02-02,Samba Rice,233.68,277.21,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-02-02,Nadu Rice,213.8,250.45,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-02-02,Red Dhal,384.61,461.0,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-02-02,Potatoes (Local),308.16,358.62,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-02-02,Big Onions (Imported),260.91,322.08,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-02-02,Sugar (White),255.98,314.11,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-02-09,Samba Rice,242.63,300.47,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-02-09,Nadu Rice,211.3,250.11,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-02-09,Red Dhal,379.23,441.08,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-02-09,Potatoes (Local),311.95,363.8,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-02-09,Big Onions (Imported),277.21,340.17,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-02-09,Sugar (White),270.96,316.09,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-02-16,Samba Rice,235.11,280.04,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-02-16,Nadu Rice,222.51,261.17,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-02-16,Red Dhal,369.66,435.64,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-02-16,Potatoes (Local),321.32,383.94,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-02-16,Big Onions (Imported),270.78,319.78,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-02-16,Sugar (White),270.95,324.3,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-02-23,Samba Rice,242.63,287.95,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-02-23,Nadu Rice,227.26,283.72,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-02-23,Red Dhal,370.18,436.14,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-02-23,Potatoes (Local),312.08,375.35,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-02-23,Big Onions (Imported),280.12,345.02,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-02-23,Sugar (White),270.79,315.16,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-03-02,Samba Rice,231.57,281.15,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-03-02,Nadu Rice,225.98,272.41,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-03-02,Red Dhal,359.51,443.85,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-03-02,Potatoes (Local),323.91,381.73,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-03-02,Big Onions (Imported),275.73,324.61,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-03-02,Sugar (White),273.0,317.97,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-03-09,Samba Rice,235.11,292.63,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-03-09,Nadu Rice,214.53,256.39,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-03-09,Red Dhal,366.85,422.86,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-03-09,Potatoes (Local),303.8,364.62,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-03-09,Big Onions (Imported),264.34,330.28,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-03-09,Sugar (White),261.78,301.78,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-03-16,Samba Rice,244.44,301.62,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-03-16,Nadu Rice,222.05,272.93,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-03-16,Red Dhal,360.55,424.98,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-03-16,Potatoes (Local),323.37,394.38,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-03-16,Big Onions (Imported),262.24,320.08,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-03-16,Sugar (White),263.33,302.97,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-03-23,Samba Rice,228.34,268.43,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-03-23,Nadu Rice,225.29,271.45,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-03-23,Red Dhal,378.07,454.73,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-03-23,Potatoes (Local),305.26,359.84,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-03-23,Big Onions (Imported),265.75,306.88,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-03-23,Sugar (White),262.73,323.0,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-03-30,Samba Rice,235.48,273.41,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-03-30,Nadu Rice,226.53,274.03,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-03-30,Red Dhal,356.95,428.89,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-03-30,Potatoes (Local),308.55,359.26,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-03-30,Big Onions (Imported),268.52,325.31,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-03-30,Sugar (White),258.93,308.56,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-04-06,Samba Rice,264.08,305.95,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-04-06,Nadu Rice,251.22,290.6,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-04-06,Red Dhal,410.45,492.84,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-04-06,Potatoes (Local),361.11,435.29,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-04-06,Big Onions (Imported),295.28,353.45,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-04-06,Sugar (White),294.85,368.0,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-04-13,Samba Rice,255.52,294.26,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-04-13,Nadu Rice,247.62,293.3,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-04-13,Red Dhal,417.23,506.03,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-04-13,Potatoes (Local),355.08,434.45,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-04-13,Big Onions (Imported),293.9,339.29,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-04-13,Sugar (White),292.76,360.49,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-04-20,Samba Rice,253.88,311.74,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-04-20,Nadu Rice,241.35,294.34,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-04-20,Red Dhal,413.91,509.59,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-04-20,Potatoes (Local),335.39,411.73,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-04-20,Big Onions (Imported),296.88,350.12,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-04-20,Sugar (White),281.04,328.8,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-04-27,Samba Rice,251.1,312.2,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-04-27,Nadu Rice,242.33,302.65,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-04-27,Red Dhal,411.01,483.07,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-04-27,Potatoes (Local),354.58,414.54,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-04-27,Big Onions (Imported),294.48,361.65,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-04-27,Sugar (White),300.22,355.22,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-05-04,Samba Rice,236.28,280.42,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-05-04,Nadu Rice,233.25,285.58,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-05-04,Red Dhal,394.89,469.39,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-05-04,Potatoes (Local),337.11,404.4,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-05-04,Big Onions (Imported),278.34,345.82,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-05-04,Sugar (White),273.02,335.85,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-05-11,Samba Rice,248.03,287.19,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-05-11,Nadu Rice,228.05,281.01,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-05-11,Red Dhal,384.19,454.16,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-05-11,Potatoes (Local),313.89,381.72,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-05-11,Big Onions (Imported),274.09,331.72,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-05-11,Sugar (White),270.99,330.33,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-05-18,Samba Rice,240.71,277.84,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-05-18,Nadu Rice,232.9,276.05,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-05-18,Red Dhal,398.06,468.7,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-05-18,Potatoes (Local),337.27,419.83,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-05-18,Big Onions (Imported),268.94,326.43,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-05-18,Sugar (White),269.62,331.66,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-05-25,Samba Rice,247.1,307.71,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-05-25,Nadu Rice,219.74,266.05,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-05-25,Red Dhal,391.41,451.48,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-05-25,Potatoes (Local),313.55,384.99,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-05-25,Big Onions (Imported),275.42,327.28,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-05-25,Sugar (White),274.07,331.76,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-06-01,Samba Rice,247.09,307.6,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-06-01,Nadu Rice,223.88,274.55,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-06-01,Red Dhal,385.06,463.21,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-06-01,Potatoes (Local),322.15,391.4,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-06-01,Big Onions (Imported),272.82,316.84,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-06-01,Sugar (White),277.74,333.26,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-06-08,Samba Rice,241.4,291.17,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-06-08,Nadu Rice,221.89,260.95,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-06-08,Red Dhal,381.15,476.3,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-06-08,Potatoes (Local),319.23,396.37,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-06-08,Big Onions (Imported),278.2,323.34,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-06-08,Sugar (White),280.29,335.0,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-06-15,Samba Rice,251.37,300.26,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-06-15,Nadu Rice,218.74,266.47,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-06-15,Red Dhal,393.38,464.96,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-06-15,Potatoes (Local),320.84,371.05,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-06-15,Big Onions (Imported),279.34,346.14,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-06-15,Sugar (White),280.26,342.25,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-06-22,Samba Rice,251.93,305.79,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-06-22,Nadu Rice,231.51,278.01,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-06-22,Red Dhal,371.2,434.34,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-06-22,Potatoes (Local),315.42,387.66,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-06-22,Big Onions (Imported),267.85,322.87,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-06-22,Sugar (White),269.74,331.88,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-06-29,Samba Rice,244.61,296.27,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-06-29,Nadu Rice,218.71,258.28,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-06-29,Red Dhal,398.1,486.43,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-06-29,Potatoes (Local),325.47,399.32,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-06-29,Big Onions (Imported),285.6,330.55,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-06-29,Sugar (White),282.9,343.51,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-07-06,Samba Rice,235.35,286.66,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-07-06,Nadu Rice,216.68,268.21,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-07-06,Red Dhal,379.64,460.88,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-07-06,Potatoes (Local),307.04,382.76,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-07-06,Big Onions (Imported),268.59,333.34,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-07-06,Sugar (White),255.02,296.44,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-07-13,Samba Rice,229.73,267.97,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-07-13,Nadu Rice,216.3,264.09,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-07-13,Red Dhal,366.74,456.26,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-07-13,Potatoes (Local),325.01,401.26,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-07-13,Big Onions (Imported),264.66,321.17,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-07-13,Sugar (White),265.5,308.65,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-07-20,Samba Rice,232.56,279.85,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-07-20,Nadu Rice,219.46,256.08,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-07-20,Red Dhal,384.43,448.02,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-07-20,Potatoes (Local),319.06,389.91,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-07-20,Big Onions (Imported),272.32,336.11,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-07-20,Sugar (White),265.77,327.57,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-07-27,Samba Rice,227.38,262.52,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-07-27,Nadu Rice,221.9,267.98,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-07-27,Red Dhal,375.81,461.0,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-07-27,Potatoes (Local),312.95,379.89,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-07-27,Big Onions (Imported),270.01,327.45,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-07-27,Sugar (White),259.97,323.84,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-08-03,Samba Rice,243.27,299.34,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-08-03,Nadu Rice,229.55,270.81,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-08-03,Red Dhal,369.72,427.39,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-08-03,Potatoes (Local),323.23,387.37,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-08-03,Big Onions (Imported),271.81,329.07,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-08-03,Sugar (White),268.51,328.08,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-08-10,Samba Rice,248.16,306.75,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-08-10,Nadu Rice,234.8,273.09,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-08-10,Red Dhal,378.84,456.94,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-08-10,Potatoes (Local),320.1,383.05,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-08-10,Big Onions (Imported),273.22,320.98,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-08-10,Sugar (White),263.81,311.04,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-08-17,Samba Rice,241.34,292.39,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-08-17,Nadu Rice,221.64,274.06,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-08-17,Red Dhal,372.38,440.43,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-08-17,Potatoes (Local),326.82,386.06,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-08-17,Big Onions (Imported),284.26,341.06,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-08-17,Sugar (White),272.92,327.47,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-08-24,Samba Rice,239.87,276.41,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-08-24,Nadu Rice,234.26,281.24,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-08-24,Red Dhal,397.09,465.2,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-08-24,Potatoes (Local),320.98,370.75,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-08-24,Big Onions (Imported),278.29,344.59,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-08-24,Sugar (White),275.96,330.34,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-08-31,Samba Rice,244.32,301.67,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-08-31,Nadu Rice,224.95,278.54,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-08-31,Red Dhal,389.77,478.01,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-08-31,Potatoes (Local),321.32,382.39,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-08-31,Big Onions (Imported),279.97,327.42,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-08-31,Sugar (White),273.76,316.84,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-09-07,Samba Rice,243.68,298.86,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-09-07,Nadu Rice,222.21,277.52,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-09-07,Red Dhal,388.32,451.18,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-09-07,Potatoes (Local),337.14,400.99,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-09-07,Big Onions (Imported),284.97,337.38,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-09-07,Sugar (White),282.17,345.8,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-09-14,Samba Rice,237.74,285.5,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-09-14,Nadu Rice,226.2,261.15,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-09-14,Red Dhal,371.68,439.81,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-09-14,Potatoes (Local),324.12,387.55,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-09-14,Big Onions (Imported),280.77,337.36,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-09-14,Sugar (White),268.85,325.66,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-09-21,Samba Rice,237.02,296.05,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-09-21,Nadu Rice,230.53,272.01,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-09-21,Red Dhal,377.79,465.75,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-09-21,Potatoes (Local),325.64,397.57,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-09-21,Big Onions (Imported),273.94,337.38,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-09-21,Sugar (White),269.73,328.36,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-09-28,Samba Rice,252.95,305.66,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-09-28,Nadu Rice,231.57,283.1,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-09-28,Red Dhal,388.56,447.88,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-09-28,Potatoes (Local),324.14,404.11,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-09-28,Big Onions (Imported),284.7,349.5,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-09-28,Sugar (White),274.29,335.22,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-10-05,Samba Rice,245.23,286.2,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-10-05,Nadu Rice,228.53,276.97,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-10-05,Red Dhal,393.25,458.05,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-10-05,Potatoes (Local),329.5,379.97,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-10-05,Big Onions (Imported),288.38,334.81,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-10-05,Sugar (White),262.11,309.65,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-10-12,Samba Rice,236.81,288.68,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-10-12,Nadu Rice,224.58,275.67,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-10-12,Red Dhal,395.68,489.57,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-10-12,Potatoes (Local),330.93,382.63,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-10-12,Big Onions (Imported),270.34,316.5,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-10-12,Sugar (White),268.78,326.9,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-10-19,Samba Rice,244.1,288.37,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-10-19,Nadu Rice,220.29,273.43,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-10-19,Red Dhal,377.97,448.06,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-10-19,Potatoes (Local),331.87,405.58,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-10-19,Big Onions (Imported),281.59,343.35,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-10-19,Sugar (White),275.0,321.54,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-10-26,Samba Rice,238.66,287.78,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-10-26,Nadu Rice,221.22,275.93,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-10-26,Red Dhal,376.6,443.97,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-10-26,Potatoes (Local),317.19,387.13,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-10-26,Big Onions (Imported),274.33,325.05,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-10-26,Sugar (White),282.06,346.8,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-11-02,Samba Rice,255.93,297.44,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-11-02,Nadu Rice,245.45,291.59,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-11-02,Red Dhal,425.33,523.94,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-11-02,Potatoes (Local),360.18,443.19,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-11-02,Big Onions (Imported),292.89,345.25,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-11-02,Sugar (White),296.68,351.46,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-11-09,Samba Rice,259.45,305.02,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-11-09,Nadu Rice,241.63,282.76,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-11-09,Red Dhal,410.86,510.82,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-11-09,Potatoes (Local),352.99,410.78,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-11-09,Big Onions (Imported),300.64,363.38,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-11-09,Sugar (White),285.67,347.66,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-11-16,Samba Rice,261.3,317.16,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-11-16,Nadu Rice,233.37,278.02,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-11-16,Red Dhal,416.72,483.42,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-11-16,Potatoes (Local),355.06,408.5,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-11-16,Big Onions (Imported),299.09,371.74,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-11-16,Sugar (White),289.51,360.01,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-11-23,Samba Rice,268.54,321.64,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-11-23,Nadu Rice,236.21,294.41,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-11-23,Red Dhal,403.74,490.38,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-11-23,Potatoes (Local),358.88,415.92,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-11-23,Big Onions (Imported),299.65,360.63,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-11-23,Sugar (White),296.89,369.23,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-11-30,Samba Rice,269.27,314.37,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-11-30,Nadu Rice,249.44,291.24,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-11-30,Red Dhal,423.35,529.07,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-11-30,Potatoes (Local),344.67,413.44,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-11-30,Big Onions (Imported),308.29,384.2,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-11-30,Sugar (White),301.62,373.31,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-12-07,Samba Rice,250.42,302.21,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-12-07,Nadu Rice,234.43,292.64,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-12-07,Red Dhal,402.54,502.74,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-12-07,Potatoes (Local),348.74,418.28,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-12-07,Big Onions (Imported),308.34,380.83,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-12-07,Sugar (White),290.94,340.19,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-12-14,Samba Rice,252.57,294.56,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-12-14,Nadu Rice,241.24,283.63,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-12-14,Red Dhal,399.31,488.62,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-12-14,Potatoes (Local),355.62,429.15,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-12-14,Big Onions (Imported),304.02,354.96,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-12-14,Sugar (White),299.99,371.9,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-12-21,Samba Rice,267.47,321.37,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-12-21,Nadu Rice,234.03,284.8,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-12-21,Red Dhal,399.27,464.77,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-12-21,Potatoes (Local),342.63,402.52,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-12-21,Big Onions (Imported),292.19,342.9,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-12-21,Sugar (White),297.6,370.63,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-12-28,Samba Rice,256.52,313.54,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-12-28,Nadu Rice,232.57,282.66,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-12-28,Red Dhal,415.91,480.88,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-12-28,Potatoes (Local),336.92,397.79,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-12-28,Big Onions (Imported),295.63,354.83,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2025-12-28,Sugar (White),300.9,367.21,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-01-04,Samba Rice,256.46,297.94,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-01-04,Nadu Rice,249.85,294.7,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-01-04,Red Dhal,412.95,483.94,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-01-04,Potatoes (Local),337.02,392.74,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-01-04,Big Onions (Imported),303.5,367.41,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-01-04,Sugar (White),289.44,348.75,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-01-11,Samba Rice,259.79,312.72,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-01-11,Nadu Rice,244.97,287.07,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-01-11,Red Dhal,400.93,491.33,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-01-11,Potatoes (Local),357.56,414.12,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-01-11,Big Onions (Imported),296.33,361.63,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-01-11,Sugar (White),281.56,339.68,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-01-18,Samba Rice,251.27,302.72,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-01-18,Nadu Rice,241.91,292.05,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-01-18,Red Dhal,397.74,470.45,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-01-18,Potatoes (Local),347.77,403.98,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-01-18,Big Onions (Imported),290.59,351.12,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-01-18,Sugar (White),281.86,338.52,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-01-25,Samba Rice,266.83,318.95,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-01-25,Nadu Rice,242.06,289.43,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-01-25,Red Dhal,394.72,472.18,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-01-25,Potatoes (Local),355.72,434.81,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-01-25,Big Onions (Imported),295.12,363.48,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-01-25,Sugar (White),297.13,358.88,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-02-01,Samba Rice,243.4,288.3,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-02-01,Nadu Rice,226.36,282.82,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-02-01,Red Dhal,410.72,475.16,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-02-01,Potatoes (Local),348.47,401.85,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-02-01,Big Onions (Imported),286.57,351.59,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-02-01,Sugar (White),288.67,360.21,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-02-08,Samba Rice,255.54,304.61,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-02-08,Nadu Rice,243.79,289.68,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-02-08,Red Dhal,408.66,507.01,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-02-08,Potatoes (Local),333.43,406.21,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-02-08,Big Onions (Imported),292.41,352.04,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-02-08,Sugar (White),286.13,339.0,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-02-15,Samba Rice,246.09,296.22,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-02-15,Nadu Rice,235.09,287.46,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-02-15,Red Dhal,388.12,446.47,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-02-15,Potatoes (Local),323.93,382.18,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-02-15,Big Onions (Imported),292.68,352.52,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-02-15,Sugar (White),283.38,349.22,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-02-22,Samba Rice,247.49,293.18,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-02-22,Nadu Rice,230.34,286.48,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-02-22,Red Dhal,404.07,469.24,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-02-22,Potatoes (Local),345.12,411.36,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-02-22,Big Onions (Imported),294.82,365.1,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-02-22,Sugar (White),271.71,318.07,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-03-01,Samba Rice,244.52,282.02,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-03-01,Nadu Rice,236.38,288.46,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-03-01,Red Dhal,382.59,468.31,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-03-01,Potatoes (Local),334.15,392.1,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-03-01,Big Onions (Imported),282.14,348.83,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-03-01,Sugar (White),272.63,327.26,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-03-08,Samba Rice,248.33,305.84,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-03-08,Nadu Rice,238.89,282.34,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-03-08,Red Dhal,400.03,486.94,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-03-08,Potatoes (Local),331.95,391.76,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-03-08,Big Onions (Imported),280.43,341.01,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-03-08,Sugar (White),276.35,326.11,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-03-15,Samba Rice,243.72,303.4,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-03-15,Nadu Rice,241.67,299.95,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-03-15,Red Dhal,400.92,478.19,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-03-15,Potatoes (Local),336.67,419.9,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-03-15,Big Onions (Imported),298.87,363.76,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-03-15,Sugar (White),289.12,341.7,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-03-22,Samba Rice,250.9,292.28,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-03-22,Nadu Rice,232.23,284.58,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-03-22,Red Dhal,396.08,489.13,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-03-22,Potatoes (Local),331.42,404.58,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-03-22,Big Onions (Imported),295.73,367.14,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-03-22,Sugar (White),284.07,354.17,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-03-29,Samba Rice,253.75,295.22,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-03-29,Nadu Rice,229.72,268.85,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-03-29,Red Dhal,401.58,498.85,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-03-29,Potatoes (Local),346.14,401.26,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-03-29,Big Onions (Imported),293.86,343.54,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-03-29,Sugar (White),277.42,337.72,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-04-05,Samba Rice,280.92,347.6,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-04-05,Nadu Rice,252.27,309.33,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-04-05,Red Dhal,445.7,537.46,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-04-05,Potatoes (Local),370.89,458.77,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-04-05,Big Onions (Imported),314.18,391.37,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-04-05,Sugar (White),299.71,372.75,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-04-12,Samba Rice,288.93,335.66,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-04-12,Nadu Rice,269.07,322.32,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-04-12,Red Dhal,428.83,519.07,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-04-12,Potatoes (Local),362.72,450.32,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-04-12,Big Onions (Imported),319.76,392.52,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-04-12,Sugar (White),308.82,371.62,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-04-19,Samba Rice,275.49,324.02,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-04-19,Nadu Rice,258.99,310.72,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-04-19,Red Dhal,423.78,528.93,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-04-19,Potatoes (Local),370.6,457.31,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-04-19,Big Onions (Imported),328.99,390.53,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-04-19,Sugar (White),309.65,373.52,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-04-26,Samba Rice,272.42,317.26,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-04-26,Nadu Rice,253.77,315.56,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-04-26,Red Dhal,440.62,525.11,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-04-26,Potatoes (Local),361.17,427.26,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-04-26,Big Onions (Imported),315.37,388.96,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-04-26,Sugar (White),311.78,378.96,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-05-03,Samba Rice,264.25,310.69,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-05-03,Nadu Rice,248.02,309.19,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-05-03,Red Dhal,413.84,496.22,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-05-03,Potatoes (Local),337.98,415.55,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-05-03,Big Onions (Imported),289.73,354.06,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-05-03,Sugar (White),291.13,361.49,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-05-10,Samba Rice,261.28,317.24,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-05-10,Nadu Rice,233.26,269.04,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-05-10,Red Dhal,420.55,523.38,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-05-10,Potatoes (Local),351.87,431.55,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-05-10,Big Onions (Imported),295.51,364.73,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-05-10,Sugar (White),285.14,348.08,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-05-17,Samba Rice,250.17,300.35,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-05-17,Nadu Rice,239.35,290.04,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-05-17,Red Dhal,414.66,502.42,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-05-17,Potatoes (Local),346.73,415.65,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-05-17,Big Onions (Imported),285.85,344.5,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-05-17,Sugar (White),280.02,336.85,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-05-24,Samba Rice,255.71,319.06,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-05-24,Nadu Rice,232.46,286.23,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-05-24,Red Dhal,414.9,510.58,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-05-24,Potatoes (Local),358.58,416.2,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-05-24,Big Onions (Imported),287.99,335.48,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-05-24,Sugar (White),284.22,341.82,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-05-31,Samba Rice,266.97,314.15,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-05-31,Nadu Rice,239.81,284.73,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-05-31,Red Dhal,406.12,489.98,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-05-31,Potatoes (Local),360.82,423.09,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-05-31,Big Onions (Imported),301.98,372.88,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-05-31,Sugar (White),294.98,364.54,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-06-07,Samba Rice,265.81,308.17,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-06-07,Nadu Rice,239.46,288.61,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-06-07,Red Dhal,394.67,454.24,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-06-07,Potatoes (Local),338.07,405.68,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-06-07,Big Onions (Imported),296.03,363.65,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-06-07,Sugar (White),292.94,362.01,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-06-14,Samba Rice,251.97,303.07,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-06-14,Nadu Rice,232.95,272.82,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-06-14,Red Dhal,421.25,521.83,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-06-14,Potatoes (Local),346.52,400.11,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-06-14,Big Onions (Imported),287.47,357.2,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-06-14,Sugar (White),300.71,362.76,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-06-21,Samba Rice,250.67,311.55,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-06-21,Nadu Rice,238.21,296.84,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-06-21,Red Dhal,412.05,504.85,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-06-21,Potatoes (Local),353.11,420.14,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-06-21,Big Onions (Imported),287.53,335.33,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-06-21,Sugar (White),285.35,351.97,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-06-28,Samba Rice,258.09,319.94,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-06-28,Nadu Rice,238.54,292.35,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-06-28,Red Dhal,397.41,496.3,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-06-28,Potatoes (Local),353.43,424.14,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-06-28,Big Onions (Imported),308.89,356.88,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-06-28,Sugar (White),289.93,357.74,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-07-05,Samba Rice,249.37,305.95,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-07-05,Nadu Rice,243.08,289.19,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-07-05,Red Dhal,405.61,467.65,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-07-05,Potatoes (Local),330.68,413.1,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-07-05,Big Onions (Imported),288.45,341.98,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-07-05,Sugar (White),292.63,349.16,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-07-12,Samba Rice,256.22,311.58,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-07-12,Nadu Rice,226.77,274.81,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-07-12,Red Dhal,406.39,496.33,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-07-12,Potatoes (Local),325.52,379.37,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-07-12,Big Onions (Imported),293.56,356.2,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-07-12,Sugar (White),288.08,340.41,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-07-19,Samba Rice,244.64,281.46,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-07-19,Nadu Rice,230.95,273.9,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-07-19,Red Dhal,389.61,453.21,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-07-19,Potatoes (Local),328.36,392.35,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-07-19,Big Onions (Imported),289.94,345.26,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-07-19,Sugar (White),271.95,322.37,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-07-26,Samba Rice,244.37,295.64,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-07-26,Nadu Rice,231.25,274.85,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-07-26,Red Dhal,390.31,463.99,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-07-26,Potatoes (Local),325.59,403.77,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-07-26,Big Onions (Imported),298.03,371.89,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-07-26,Sugar (White),284.29,331.75,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-08-02,Samba Rice,257.92,300.19,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-08-02,Nadu Rice,237.95,285.38,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-08-02,Red Dhal,394.9,471.3,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-08-02,Potatoes (Local),345.01,413.47,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-08-02,Big Onions (Imported),287.53,337.9,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-08-02,Sugar (White),285.49,346.16,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-08-09,Samba Rice,262.35,306.83,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-08-09,Nadu Rice,234.2,276.47,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-08-09,Red Dhal,423.89,501.56,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-08-09,Potatoes (Local),350.54,431.31,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-08-09,Big Onions (Imported),293.54,347.4,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-08-09,Sugar (White),298.75,369.24,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-08-16,Samba Rice,270.28,314.5,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-08-16,Nadu Rice,238.33,296.66,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-08-16,Red Dhal,399.41,471.87,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-08-16,Potatoes (Local),360.1,449.0,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-08-16,Big Onions (Imported),292.63,356.86,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-08-16,Sugar (White),291.19,351.64,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-08-23,Samba Rice,255.03,302.88,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-08-23,Nadu Rice,247.92,294.85,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-08-23,Red Dhal,396.56,478.4,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-08-23,Potatoes (Local),349.76,421.31,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-08-23,Big Onions (Imported),301.93,363.83,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-08-23,Sugar (White),301.96,361.19,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-08-30,Samba Rice,264.74,316.06,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-08-30,Nadu Rice,237.76,289.9,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-08-30,Red Dhal,419.64,515.97,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-08-30,Potatoes (Local),344.68,413.59,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-08-30,Big Onions (Imported),300.77,353.16,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-08-30,Sugar (White),295.1,360.47,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-09-06,Samba Rice,266.42,308.35,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-09-06,Nadu Rice,251.29,301.03,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-09-06,Red Dhal,405.95,487.41,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-09-06,Potatoes (Local),358.88,437.54,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-09-06,Big Onions (Imported),298.64,367.05,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-09-06,Sugar (White),288.13,357.15,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-09-13,Samba Rice,261.17,317.01,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-09-13,Nadu Rice,233.77,286.81,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-09-13,Red Dhal,414.36,491.22,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-09-13,Potatoes (Local),351.28,405.53,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-09-13,Big Onions (Imported),309.11,376.42,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-09-13,Sugar (White),289.06,354.18,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-09-20,Samba Rice,270.1,322.24,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-09-20,Nadu Rice,232.33,273.19,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-09-20,Red Dhal,409.55,492.23,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-09-20,Potatoes (Local),349.44,421.96,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-09-20,Big Onions (Imported),296.31,352.35,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-09-20,Sugar (White),297.75,359.94,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-09-27,Samba Rice,260.41,308.45,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-09-27,Nadu Rice,232.6,269.92,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-09-27,Red Dhal,406.45,506.51,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-09-27,Potatoes (Local),336.54,418.68,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-09-27,Big Onions (Imported),289.07,341.45,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-09-27,Sugar (White),290.36,339.92,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-10-04,Samba Rice,260.04,311.43,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-10-04,Nadu Rice,240.6,293.45,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-10-04,Red Dhal,403.27,475.87,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-10-04,Potatoes (Local),355.82,413.29,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-10-04,Big Onions (Imported),305.91,371.62,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-10-04,Sugar (White),295.53,344.72,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-10-11,Samba Rice,270.48,317.65,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-10-11,Nadu Rice,235.5,274.6,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-10-11,Red Dhal,411.16,512.24,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-10-11,Potatoes (Local),339.75,404.47,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-10-11,Big Onions (Imported),290.09,352.18,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-10-11,Sugar (White),289.82,334.14,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-10-18,Samba Rice,262.78,307.38,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-10-18,Nadu Rice,243.58,289.59,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-10-18,Red Dhal,415.9,486.84,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-10-18,Potatoes (Local),354.21,435.99,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-10-18,Big Onions (Imported),287.19,333.19,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-10-18,Sugar (White),300.07,350.69,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-10-25,Samba Rice,256.77,307.03,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-10-25,Nadu Rice,237.2,293.24,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-10-25,Red Dhal,410.11,497.84,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-10-25,Potatoes (Local),349.89,423.76,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-10-25,Big Onions (Imported),299.67,355.05,Pettah Wholesale Market,CBSL_Weekly_Bulletin
+2026-10-25,Sugar (White),299.45,362.85,Pettah Wholesale Market,CBSL_Weekly_Bulletin

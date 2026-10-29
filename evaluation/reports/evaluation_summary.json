@@ -1,0 +1,24 @@
+{
+  "evaluation_title": "Model-X 2.0 Historical Backtest & Validation Report",
+  "wholesale_price_mape_by_commodity": {
+    "price_big_onions_imported": 1.93,
+    "price_nadu_rice": 1.83,
+    "price_potatoes_local": 1.55,
+    "price_red_dhal": 1.38,
+    "price_samba_rice": 1.4,
+    "price_sugar_white": 1.25
+  },
+  "mean_absolute_percentage_error_avg": 1.56,
+  "mape_pass_threshold": true,
+  "liquidity_squeeze_detection": {
+    "true_positives": 20,
+    "false_positives": 5,
+    "false_negatives": 2,
+    "true_negatives": 33,
+    "precision": 0.8,
+    "recall": 0.9091,
+    "f1_score": 0.8511
+  },
+  "safe_failure_trigger_verified": true,
+  "status": "VALIDATED"
+}
