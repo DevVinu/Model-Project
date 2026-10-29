@@ -1,5 +1,5 @@
 from datetime import datetime
-from typing import List, Optional, Dict, Any
+from typing import List, Optional, Dict, Any, Union
 from pydantic import BaseModel, Field
 
 
@@ -29,11 +29,11 @@ class TrustMetadata(BaseModel):
 
 class RecommendationCard(BaseModel):
     action_type: str
-    headline: str
-    detail: str
+    headline: Union[Dict[str, str], str]
+    detail: Union[Dict[str, str], str]
     recommended_order_adjustment_pct: int
     urgency: str
-    suggested_actions: List[str]
+    suggested_actions: Union[Dict[str, List[str]], List[str]]
 
 
 class ForecastResponse(BaseModel):

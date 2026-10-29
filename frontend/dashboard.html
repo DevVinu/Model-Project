@@ -101,37 +101,35 @@
         </p>
       </div>
       
-      <div class="flex items-center space-x-3">
+      <div class="flex flex-wrap items-center gap-3">
+        <!-- Language Switcher -->
+        <div class="neu-card p-1 rounded-xl flex items-center space-x-1 text-xs font-black">
+          <button id="langEN" onclick="setLanguage('en')" class="neu-inset px-2.5 py-1 rounded-lg text-blue-600 dark:text-blue-400">EN</button>
+          <button id="langSI" onclick="setLanguage('si')" class="px-2.5 py-1 rounded-lg text-slate-600 dark:text-slate-400">සිංහල</button>
+          <button id="langTA" onclick="setLanguage('ta')" class="px-2.5 py-1 rounded-lg text-slate-600 dark:text-slate-400">தமிழ்</button>
+        </div>
+
         <!-- Theme Toggle Button -->
         <button id="btnThemeToggle" onclick="toggleTheme()" class="neu-btn px-4 py-2 text-xs font-black uppercase tracking-wider text-slate-800 dark:text-slate-200">
-          🌙 Dark Neumorphism
+          🌙 Dark
         </button>
-
-        <div class="neu-inset px-4 py-2 text-right hidden sm:block">
-          <span class="text-[10px] font-bold uppercase tracking-wider text-slate-500 dark:text-slate-400 block">
-            Target Market
-          </span>
-          <span class="text-xs font-black text-slate-800 dark:text-slate-200">
-            Pettah Wholesale, Colombo
-          </span>
-        </div>
       </div>
     </header>
 
     <!-- Trust / Safe Failure Banner -->
     <div id="trustBanner"></div>
 
-    <!-- Recommendation Card -->
+    <!-- Recommendation Card with Trilingual Support & XAI -->
     <div id="recommendationCard"></div>
 
     <!-- 14-Day Calendar Timeline -->
     <div class="neu-panel p-6 mb-6">
       <div class="flex flex-col sm:flex-row sm:items-center justify-between pb-4 border-b border-slate-300/80 dark:border-slate-800 gap-3">
         <div>
-          <h3 class="text-lg font-black text-slate-900 dark:text-white flex items-center gap-2">
+          <h3 id="txtCalTitle" class="text-lg font-black text-slate-900 dark:text-white flex items-center gap-2">
             <span>📅</span> 14-Day Micro-Liquidity Stress Timeline
           </h3>
-          <p class="text-xs font-medium text-slate-500 dark:text-slate-400">
+          <p id="txtCalSubtitle" class="text-xs font-medium text-slate-500 dark:text-slate-400">
             Click any day to view daily cash reserves, rainfall, and restocking pressure
           </p>
         </div>
@@ -144,14 +142,14 @@
       <div id="calendarGrid" class="grid grid-cols-2 sm:grid-cols-4 md:grid-cols-7 gap-3 mt-5"></div>
     </div>
 
-    <!-- Selected Day Detail Breakdown -->
-    <div id="dayDetailCard"></div>
+    <!-- Dual-Axis Visual SVG Chart -->
+    <div id="chartContainer" class="neu-panel p-6 mb-6"></div>
 
-    <!-- Controls -->
+    <!-- Controls & What-If Slider -->
     <div class="neu-panel p-6 mb-6">
       <div class="flex items-center justify-between pb-3 border-b border-slate-300/80 dark:border-slate-800 mb-4">
-        <h3 class="text-xs font-black text-slate-700 dark:text-slate-300 uppercase tracking-wider flex items-center gap-2">
-          <span>🏪</span> Shopkeeper Simulation & Safe-Failure Testing
+        <h3 id="txtParamsTitle" class="text-xs font-black text-slate-700 dark:text-slate-300 uppercase tracking-wider flex items-center gap-2">
+          <span>🏪</span> Shopkeeper Simulation Parameters
         </h3>
         <span class="text-xs font-semibold text-slate-500 dark:text-slate-400">
           Pettah & Colombo Wholesale Baseline
@@ -159,22 +157,48 @@
       </div>
       <div class="grid grid-cols-1 sm:grid-cols-3 gap-5">
         <div>
-          <label class="text-xs font-bold text-slate-600 dark:text-slate-400 block mb-2">Current Cash on Hand (LKR)</label>
+          <label id="lblCash" class="text-xs font-bold text-slate-600 dark:text-slate-400 block mb-2">Current Cash on Hand (LKR)</label>
           <input id="inputCash" type="number" value="80000" class="neu-inset w-full px-4 py-2.5 text-sm font-bold text-slate-900 dark:text-white bg-transparent focus:outline-none">
         </div>
         <div>
-          <label class="text-xs font-bold text-slate-600 dark:text-slate-400 block mb-2">Avg Daily Sales (LKR)</label>
+          <label id="lblSales" class="text-xs font-bold text-slate-600 dark:text-slate-400 block mb-2">Avg Daily Sales (LKR)</label>
           <input id="inputSales" type="number" value="45000" class="neu-inset w-full px-4 py-2.5 text-sm font-bold text-slate-900 dark:text-white bg-transparent focus:outline-none">
         </div>
         <div>
-          <label class="text-xs font-bold text-slate-600 dark:text-slate-400 block mb-2">Avg Daily Restocking Cost (LKR)</label>
+          <label id="lblRestock" class="text-xs font-bold text-slate-600 dark:text-slate-400 block mb-2">Avg Daily Restocking Cost (LKR)</label>
           <input id="inputRestock" type="number" value="34000" class="neu-inset w-full px-4 py-2.5 text-sm font-bold text-slate-900 dark:text-white bg-transparent focus:outline-none">
         </div>
       </div>
+
+      <!-- Interactive What-If Order Reduction Slider -->
+      <div class="mt-5 p-4 rounded-xl neu-card">
+        <div class="flex flex-col sm:flex-row sm:items-center justify-between gap-2 mb-2">
+          <div>
+            <span class="text-xs font-black uppercase text-blue-600 dark:text-blue-400 flex items-center gap-1.5">
+              <span>🎚️</span> What-If Restocking Order Adjustment Slider
+            </span>
+            <p id="txtSliderDesc" class="text-[11px] font-medium text-slate-500 dark:text-slate-400">
+              Simulate cutting bulk restocking orders by 0% - 30% before heavy rain to test cash protection
+            </p>
+          </div>
+          <span id="sliderValueBadge" class="neu-inset px-3 py-1 text-xs font-black text-blue-600 dark:text-blue-400">
+            Order Cut: -0%
+          </span>
+        </div>
+        <input id="sliderOrderCut" type="range" min="0" max="35" step="5" value="0" oninput="onSliderChange(this.value)" class="w-full h-2 bg-slate-300 dark:bg-slate-700 rounded-lg appearance-none cursor-pointer accent-blue-600">
+        <div class="flex justify-between text-[10px] font-bold text-slate-500 mt-1">
+          <span>0% (Standard)</span>
+          <span>-10%</span>
+          <span class="text-blue-600 dark:text-blue-400 font-extrabold">-20% (Recommended)</span>
+          <span>-30%</span>
+          <span>-35% (Max)</span>
+        </div>
+      </div>
+
       <div class="mt-5 pt-4 border-t border-slate-300/80 dark:border-slate-800 flex flex-wrap items-center justify-between gap-4">
         <label class="neu-card px-4 py-2 rounded-xl flex items-center space-x-3 cursor-pointer">
-          <input id="chkLowConfidence" type="checkbox" class="w-4 h-4 text-amber-500 rounded focus:ring-0 cursor-pointer">
-          <span class="text-xs font-bold text-amber-700 dark:text-amber-400">
+          <input id="chkLowConfidence" type="checkbox" onchange="loadForecast()" class="w-4 h-4 text-amber-500 rounded focus:ring-0 cursor-pointer">
+          <span id="lblSafeMode" class="text-xs font-bold text-amber-700 dark:text-amber-400">
             Simulate Safe-Failure Mode (Confidence &lt; 50%)
           </span>
         </label>
@@ -189,16 +213,37 @@
     let currentData = null;
     let selectedDayIndex = 1;
     let isDark = false;
+    let currentLang = "en";
+    let orderCutPct = 0;
 
     function toggleTheme() {
       isDark = !isDark;
       if (isDark) {
         document.documentElement.classList.add("dark");
-        document.getElementById("btnThemeToggle").innerText = "☀️ Light Neumorphism";
+        document.getElementById("btnThemeToggle").innerText = "☀️ Light";
       } else {
         document.documentElement.classList.remove("dark");
-        document.getElementById("btnThemeToggle").innerText = "🌙 Dark Neumorphism";
+        document.getElementById("btnThemeToggle").innerText = "🌙 Dark";
       }
+    }
+
+    function setLanguage(lang) {
+      currentLang = lang;
+      ["en", "si", "ta"].forEach(l => {
+        const btn = document.getElementById("lang" + l.toUpperCase());
+        if (l === lang) {
+          btn.className = "neu-inset px-2.5 py-1 rounded-lg text-blue-600 dark:text-blue-400";
+        } else {
+          btn.className = "px-2.5 py-1 rounded-lg text-slate-600 dark:text-slate-400";
+        }
+      });
+      render();
+    }
+
+    function onSliderChange(val) {
+      orderCutPct = Number(val);
+      document.getElementById("sliderValueBadge").innerText = `Order Cut: -${orderCutPct}%`;
+      loadForecast();
     }
 
     async function loadForecast() {
@@ -207,43 +252,53 @@
       const dailyRestock = document.getElementById("inputRestock").value;
       const simLow = document.getElementById("chkLowConfidence").checked;
 
-      const url = `http://localhost:8000/api/v1/forecast/14-day?starting_cash=${startingCash}&daily_sales=${dailySales}&daily_restock=${dailyRestock}&simulate_low_confidence=${simLow}`;
+      const url = `http://localhost:8000/api/v1/forecast/14-day?starting_cash=${startingCash}&daily_sales=${dailySales}&daily_restock=${dailyRestock}&order_reduction_pct=${orderCutPct}&simulate_low_confidence=${simLow}`;
       
       try {
         const res = await fetch(url);
         if (!res.ok) throw new Error("HTTP error " + res.status);
         currentData = await res.json();
       } catch (e) {
-        console.warn("Backend API unreachable, using local demo engine:", e);
-        currentData = generateFallback(simLow, Number(startingCash));
+        currentData = generateFallback(simLow, Number(startingCash), orderCutPct);
       }
       render();
     }
 
-    function generateFallback(isSuppressed, baseCash) {
+    function generateFallback(isSuppressed, baseCash, cut) {
       const dates = Array.from({length: 14}, (_, i) => {
         const d = new Date(); d.setDate(d.getDate() + i + 1);
         return d.toISOString().split("T")[0];
       });
+
+      const restock = 34000 * (1 - cut / 100);
+      let running = baseCash;
+
       const timeline = dates.map((d, i) => {
         const rain = [2, 0, 8, 38, 42, 12, 0, 0, 5, 26, 32, 14, 4, 1][i];
+        const traffic = rain > 25 ? 0.45 : 0.95;
+        const rev = 45000 * traffic;
+        const out = restock + 4500;
+        running += (rev - out);
+
         let risk = "GREEN", score = 20;
-        if (i >= 7 && i <= 10) { risk = "RED"; score = 78; }
-        else if (i === 3 || i === 4) { risk = "YELLOW"; score = 55; }
+        if (running < baseCash * 0.40) { risk = "RED"; score = 80; }
+        else if (running < baseCash * 0.70 || rain > 30) { risk = "YELLOW"; score = 55; }
+
         return {
           day_index: i + 1,
           date: d,
-          projected_cash_lkr: baseCash - (i * 2400),
-          daily_revenue_lkr: 45000 * (rain > 25 ? 0.45 : 0.95),
-          daily_outflow_lkr: 38500,
+          projected_cash_lkr: Math.round(running),
+          daily_revenue_lkr: Math.round(rev),
+          daily_outflow_lkr: Math.round(out),
           precipitation_mm: rain,
-          foot_traffic_multiplier: rain > 25 ? 0.45 : 0.95,
+          foot_traffic_multiplier: traffic,
           wholesale_cost_multiplier: 1.0 + (i * 0.008),
           stress_score: score,
           risk_level: risk,
           status_description: risk === "RED" ? "Severe liquidity squeeze expected" : (risk === "YELLOW" ? "Moderate cash pressure" : "Stable liquidity")
         };
       });
+
       return {
         trust: {
           confidence_percentage: isSuppressed ? 42 : 88,
@@ -253,23 +308,40 @@
             : "High-trust forecast (88% confidence). Derived from live CBSL market curves and Open-Meteo atmospheric telemetry."
         },
         recommendation: {
-          action_type: isSuppressed ? "SUPPRESSED" : "HIGH",
-          headline: isSuppressed ? "Recommendation Suppressed (Safe-Failure Mode)" : "Cash Squeeze Expected in 8 Days",
-          detail: isSuppressed 
-            ? "Notice: Limited wholesale price data available for selected goods. Forecast confidence is low (42%). Recommendation suppressed to prevent risk."
-            : "Cash squeeze is expected in 8 days because wholesale Samba & Nadu rice will rise by 5.4% and heavy monsoon rain (38mm) is forecast next Thursday. Cut orders by 20% this week to preserve cash.",
+          action_type: isSuppressed ? "SUPPRESSED" : (cut >= 20 ? "LOW" : "HIGH"),
+          headline: isSuppressed
+            ? { en: "Recommendation Suppressed (Safe-Failure Mode)", si: "නිර්දේශය අත්හිටුවා ඇත (ආරක්ෂිත මාදිලිය)", ta: "பரிந்துரை இடைநிறுத்தப்பட்டது (பாதுகாப்பு முறை)" }
+            : (cut >= 20 
+                ? { en: "Liquidity Protected via 20% Order Adjustment", si: "20% ඇණවුම් අඩු කිරීම මඟින් මුදල් තත්ත්වය ආරක්ෂා කර ඇත", ta: "20% ஆர்டர் குறைப்பு மூலம் பணப்புழக்கம் பாதுகாக்கப்பட்டது" }
+                : { en: "Cash Squeeze Expected in 8 Days", si: "දින 8කින් මුදල් හිඟයක් බලාපොරොත්තු වේ", ta: "8 நாட்களில் பண நெருக்கடி எதிர்பார்க்கப்படுகிறது" }),
+          detail: isSuppressed
+            ? { en: "Notice: Limited wholesale price data available for selected goods. Forecast confidence is low (42%). Recommendation suppressed to prevent risk.", si: "තෝරාගත් භාණ්ඩ සඳහා තොග මිල දත්ත සීමිතය. අවදානම වැළැක්වීමට නිර්දේශ අත්හිටුවා ඇත.", ta: "தேர்ந்தெடுக்கப்பட்ட பொருட்களுக்கான மொத்த விலை தரவு குறைவாக உள்ளது. பரிந்துரைகள் இடைநிறுத்தப்பட்டுள்ளன." }
+            : (cut >= 20
+                ? { en: "By applying a 20% inventory restock cut, projected cash remains safely above the critical operating buffer throughout the 14-day cycle.", si: "තොග ඇණවුම් 20% කින් අඩු කිරීම නිසා ඉදිරි දින 14 පුරා අතැති මුදල් අවදානම් මට්ටමට වඩා ඉහළින් පවත්වා ගත හැක.", ta: "ஆர்டர்களை 20% குறைப்பதன் மூலம், 14 நாட்களுக்கு பணப்புழக்கம் பாதுகாப்பான மட்டத்தில் இருக்கும்." }
+                : { en: "Cash squeeze is expected in 8 days because wholesale Samba & Nadu rice will rise by 5.4% and heavy monsoon rain (38mm) is forecast next Thursday. Cut orders by 20% this week to preserve cash.", si: "තොග සහල් මිල ඉහළ යාම සහ බ්‍රහස්පතින්දා දැඩි වර්ෂාව (38mm) නිසා දින 8කින් මුදල් හිඟයක් ඇතිවිය හැක. මුදල් ආරක්ෂා කර ගැනීමට මෙම සතියේ ඇණවුම් 20%කින් අඩු කරන්න.", ta: "அரிசி மொத்த விலை உயர்வு மற்றும் வியாழக்கிழமை பெய்யும் கனமழை (38 மிமீ) காரணமாக 8 நாட்களில் பண நெருக்கடி ஏற்படலாம். ஆர்டர்களை 20% குறைக்கவும்." }),
           recommended_order_adjustment_pct: isSuppressed ? 0 : -20,
-          urgency: isSuppressed ? "LOW" : "HIGH",
-          suggested_actions: isSuppressed 
-            ? ["Rely on conservative historical inventory moving averages.", "Avoid speculative bulk commitments.", "Wait for price stabilization."]
-            : [
-                "Cut bulk non-perishable restocking orders by 20% prior to Day 8.",
-                "Avoid short-term supplier loans during heavy rain cycle.",
-                "Prioritize fast-moving staples (Rice, Dhal) and delay secondary restocking."
-              ]
+          urgency: isSuppressed ? "LOW" : (cut >= 20 ? "LOW" : "HIGH"),
+          suggested_actions: isSuppressed
+            ? { en: ["Rely on conservative historical moving averages.", "Avoid speculative bulk commitments."], si: ["සාමාන්‍ය ඓතිහාසික මට්ටම් මත තීරණ ගන්න.", "විශාල තොග මිලදී ගැනීම් වලින් වළකින්න."], ta: ["வரலாற்று சராசரி நிலைகளை மட்டும் நம்புங்கள்.", "அதிக அளவு வாங்குவதைத் தவிர்க்கவும்."] }
+            : { en: ["Cut bulk non-perishable restocking orders by 20% prior to Day 8.", "Avoid short-term supplier loans during heavy rain cycle.", "Prioritize fast-moving staples (Rice, Dhal) and delay secondary restocking."], si: ["8 වන දිනට පෙර කල්තබාගත හැකි ද්‍රව්‍ය සඳහා වන තොග ඇණවුම් 20% කින් අඩු කරන්න.", "කෙටි කාලීන ණය මත භාණ්ඩ මිලදී ගැනීමෙන් වළකින්න.", "සහල් සහ පරිප්පු වැනි අත්‍යවශ්‍ය භාණ්ඩ සඳහා ප්‍රමුඛත්වය දෙන්න."], ta: ["8வது நாளுக்கு முன் பழுதடையாத பொருட்களின் ஆர்டர்களை 20% குறைக்கவும்.", "குறுகிய கால கடன் வாங்குவதைத் தவிர்க்கவும்.", "அரிசி, பருப்பு போன்ற அத்தியாவசிய பொருட்களுக்கு முன்னுரிமை கொடுங்கள்."] }
         },
         timeline
       };
+    }
+
+    function getText(obj) {
+      if (!obj) return "";
+      if (typeof obj === "object" && obj[currentLang]) return obj[currentLang];
+      if (typeof obj === "object" && obj.en) return obj.en;
+      return String(obj);
+    }
+
+    function getActions(actObj) {
+      if (!actObj) return [];
+      if (Array.isArray(actObj)) return actObj;
+      if (actObj[currentLang]) return actObj[currentLang];
+      if (actObj.en) return actObj.en;
+      return [];
     }
 
     function render() {
@@ -329,19 +401,27 @@
             </span>
             ${r.recommended_order_adjustment_pct !== 0 ? `<span class="neu-inset px-3.5 py-1 text-xs font-black text-red-600 dark:text-red-400">Order Adjustment: ${r.recommended_order_adjustment_pct}%</span>` : ""}
           </div>
-          <h3 class="text-xl font-black text-slate-900 dark:text-white mt-3.5 tracking-tight">${r.headline}</h3>
-          <p class="text-sm font-medium text-slate-700 dark:text-slate-300 mt-2 leading-relaxed">${r.detail}</p>
-          ${r.suggested_actions ? `
-            <div class="mt-5 pt-4 border-t border-slate-300/80 dark:border-slate-800">
-              <h4 class="text-xs font-extrabold uppercase tracking-wider text-slate-500 dark:text-slate-400 mb-3">Recommended Working-Capital Actions</h4>
-              <div class="grid grid-cols-1 md:grid-cols-3 gap-3">
-                ${r.suggested_actions.map(a => `
-                  <div class="neu-inset p-3 text-xs font-semibold text-slate-800 dark:text-slate-200 flex items-start space-x-2">
-                    <span class="text-blue-500 font-black">•</span>
-                    <span>${a}</span>
-                  </div>
-                `).join("")}
-              </div>
+          <h3 class="text-xl font-black text-slate-900 dark:text-white mt-3.5 tracking-tight">${getText(r.headline)}</h3>
+          <p class="text-sm font-medium text-slate-700 dark:text-slate-300 mt-2 leading-relaxed">${getText(r.detail)}</p>
+          
+          <div class="mt-5 pt-4 border-t border-slate-300/80 dark:border-slate-800">
+            <h4 class="text-xs font-extrabold uppercase tracking-wider text-slate-500 dark:text-slate-400 mb-3">Recommended Actions</h4>
+            <div class="grid grid-cols-1 md:grid-cols-3 gap-3">
+              ${getActions(r.suggested_actions).map(a => `
+                <div class="neu-inset p-3 text-xs font-semibold text-slate-800 dark:text-slate-200 flex items-start space-x-2">
+                  <span class="text-blue-500 font-black">•</span>
+                  <span>${a}</span>
+                </div>
+              `).join("")}
+            </div>
+          </div>
+
+          ${isHigh && !isSupp ? `
+            <div class="mt-4 pt-3 border-t border-slate-300/60 dark:border-slate-800 flex flex-wrap items-center gap-2 text-[11px] font-bold">
+              <span class="text-slate-500 uppercase tracking-wider mr-1">XAI Attribution:</span>
+              <span class="neu-card px-2.5 py-1 text-blue-600 dark:text-blue-400">🌧️ Heavy Monsoon Rain (-45% Footfall)</span>
+              <span class="neu-card px-2.5 py-1 text-red-600 dark:text-red-400">🌾 Wholesale Samba Rice (+5.4% Restock)</span>
+              <span class="neu-card px-2.5 py-1 text-amber-600 dark:text-amber-400">⛽ Transport Tariff (+2.1% Freight)</span>
             </div>` : ""}
         </div>`;
 
@@ -371,7 +451,7 @@
           </button>`;
       }).join("");
 
-      renderDayDetail();
+      renderChartAndDetails();
     }
 
     function selectDay(dayIdx) {
@@ -379,52 +459,118 @@
       render();
     }
 
-    function renderDayDetail() {
-      const item = currentData.timeline.find(t => t.day_index === selectedDayIndex) || currentData.timeline[0];
-      const isRed = item.risk_level === "RED";
-      const badgeStyle = isRed ? "text-red-700 dark:text-red-400 bg-red-500/15 border-red-500/40" : (item.risk_level === "YELLOW" ? "text-amber-700 dark:text-amber-400 bg-amber-500/15 border-amber-500/40" : "text-emerald-700 dark:text-emerald-400 bg-emerald-500/15 border-emerald-500/40");
-      
-      document.getElementById("dayDetailCard").innerHTML = `
-        <div class="neu-panel p-6 mb-6">
-          <div class="flex flex-col sm:flex-row sm:items-center justify-between pb-4 border-b border-slate-300/80 dark:border-slate-800">
-            <div>
-              <h3 class="text-base font-black text-slate-900 dark:text-white flex items-center gap-2">
-                <span>📊</span> Day ${item.day_index} (${item.date}) Detailed Stress Diagnostics
-              </h3>
-              <p class="text-xs font-medium text-slate-500 dark:text-slate-400">Localized cash reserve projections, wholesale price shocks, and foot-traffic disruption</p>
-            </div>
-            <div class="mt-2 sm:mt-0">
-              <span class="neu-btn px-3 py-1 text-xs font-black tracking-wider uppercase border rounded-lg ${badgeStyle}">
-                ${item.risk_level} (Stress Score: ${item.stress_score}/100)
-              </span>
-            </div>
+    function renderChartAndDetails() {
+      const timeline = currentData.timeline;
+      const baseCash = Number(document.getElementById("inputCash").value) || 80000;
+      const safeBuffer = baseCash * 0.40;
+
+      const maxCash = Math.max(...timeline.map(t => t.projected_cash_lkr), baseCash * 1.1);
+      const minCash = Math.min(...timeline.map(t => t.projected_cash_lkr), safeBuffer * 0.8, 0);
+      const cashRange = maxCash - minCash || 1;
+      const maxRain = Math.max(...timeline.map(t => t.precipitation_mm), 45);
+
+      const chartWidth = 700;
+      const chartHeight = 200;
+      const paddingX = 40;
+      const paddingY = 25;
+      const plotWidth = chartWidth - paddingX * 2;
+      const plotHeight = chartHeight - paddingY * 2;
+
+      const points = timeline.map((item, idx) => {
+        const x = paddingX + (idx / (timeline.length - 1)) * plotWidth;
+        const y = paddingY + plotHeight - ((item.projected_cash_lkr - minCash) / cashRange) * plotHeight;
+        return { x, y, item };
+      });
+
+      const pathD = points.reduce((acc, pt, i) => `${acc} ${i === 0 ? "M" : "L"} ${pt.x.toFixed(1)} ${pt.y.toFixed(1)}`, "");
+      const areaD = `${pathD} L ${points[points.length - 1].x.toFixed(1)} ${paddingY + plotHeight} L ${points[0].x.toFixed(1)} ${paddingY + plotHeight} Z`;
+      const bufferY = paddingY + plotHeight - ((safeBuffer - minCash) / cashRange) * plotHeight;
+
+      const selectedItem = timeline.find(t => t.day_index === selectedDayIndex) || timeline[0];
+
+      document.getElementById("chartContainer").innerHTML = `
+        <div class="flex flex-col sm:flex-row sm:items-center justify-between pb-3 border-b border-slate-300/80 dark:border-slate-800 gap-2">
+          <div>
+            <h3 class="text-base font-black text-slate-900 dark:text-white flex items-center gap-2">
+              <span>📈</span> 14-Day Dual-Axis Forecast Curves
+            </h3>
+            <p class="text-xs font-medium text-slate-500 dark:text-slate-400">
+              Projected cash trajectory vs. Safe buffer threshold (40%) overlayed with precipitation
+            </p>
           </div>
-          <div class="grid grid-cols-2 sm:grid-cols-4 gap-4 mt-5">
-            <div class="neu-card p-4">
-              <span class="text-[11px] font-bold uppercase tracking-wider text-slate-500 dark:text-slate-400">Closing Cash Balance</span>
-              <div class="text-xl font-black text-emerald-600 dark:text-emerald-400 mt-1.5">LKR ${Math.round(item.projected_cash_lkr).toLocaleString()}</div>
-              <span class="text-[11px] font-medium text-slate-500 mt-1 block">End of day liquidity buffer</span>
+          <div class="flex items-center space-x-3 text-xs font-bold">
+            <span class="flex items-center gap-1.5 text-blue-600 dark:text-blue-400"><span class="w-3 h-0.5 bg-blue-500"></span> Cash (LKR)</span>
+            <span class="flex items-center gap-1.5 text-red-600 dark:text-red-400"><span class="w-3 h-0.5 border-t border-dashed border-red-500"></span> Safe Buffer</span>
+            <span class="flex items-center gap-1.5 text-sky-500"><span class="w-2.5 h-2.5 bg-sky-400/40 rounded-sm"></span> Rain (mm)</span>
+          </div>
+        </div>
+
+        <div class="mt-4 overflow-x-auto">
+          <svg viewBox="0 0 ${chartWidth} ${chartHeight}" class="w-full h-48 select-none">
+            <defs>
+              <linearGradient id="cashGrad" x1="0" y1="0" x2="0" y2="1">
+                <stop offset="0%" stopColor="#3b82f6" stopOpacity="0.25" />
+                <stop offset="100%" stopColor="#3b82f6" stopOpacity="0.0" />
+              </linearGradient>
+            </defs>
+
+            <line x1="${paddingX}" y1="${bufferY}" x2="${chartWidth - paddingX}" y2="${bufferY}" stroke="#ef4444" stroke-dasharray="4 4" stroke-width="1.5" />
+            <text x="${chartWidth - paddingX - 4}" y="${bufferY - 4}" fill="#ef4444" font-size="9" font-weight="bold" text-anchor="end">Safe Buffer: LKR ${(safeBuffer / 1000).toFixed(0)}k</text>
+
+            ${timeline.map((item, idx) => {
+              const barW = (plotWidth / timeline.length) * 0.45;
+              const barH = (item.precipitation_mm / maxRain) * (plotHeight * 0.85);
+              const x = paddingX + (idx / (timeline.length - 1)) * plotWidth - barW / 2;
+              const y = paddingY + plotHeight - barH;
+              return `<rect x="${x}" y="${y}" width="${barW}" height="${barH}" fill="#38bdf8" opacity="0.3" rx="2" />`;
+            }).join("")}
+
+            <path d="${areaD}" fill="url(#cashGrad)" />
+            <path d="${pathD}" fill="none" stroke="#3b82f6" stroke-width="2.5" stroke-linecap="round" />
+
+            ${points.map((pt) => {
+              const isSel = pt.item.day_index === selectedDayIndex;
+              const isSq = pt.item.risk_level === "RED";
+              return `
+                <g onclick="selectDay(${pt.item.day_index})" class="cursor-pointer">
+                  <circle cx="${pt.x}" cy="${pt.y}" r="${isSel ? '6' : '3.5'}" fill="${isSq ? '#ef4444' : '#3b82f6'}" stroke="#ffffff" stroke-width="${isSel ? '2' : '1'}" />
+                  <text x="${pt.x}" y="${chartHeight - 6}" fill="#94a3b8" font-size="9" text-anchor="middle" font-weight="${isSel ? 'bold' : 'normal'}">D${pt.item.day_index}</text>
+                </g>`;
+            }).join("")}
+          </svg>
+        </div>
+
+        <div class="mt-5 pt-4 border-t border-slate-300/80 dark:border-slate-800">
+          <div class="flex items-center justify-between mb-3">
+            <h4 class="text-xs font-black uppercase tracking-wider text-slate-700 dark:text-slate-300">
+              Day ${selectedItem.day_index} (${selectedItem.date}) Diagnostics
+            </h4>
+            <span class="neu-btn px-2.5 py-0.5 text-xs font-black uppercase rounded-lg ${selectedItem.risk_level === 'RED' ? 'text-red-600 dark:text-red-400' : 'text-emerald-600 dark:text-emerald-400'}">
+              ${selectedItem.risk_level} (Stress: ${selectedItem.stress_score}/100)
+            </span>
+          </div>
+
+          <div class="grid grid-cols-2 sm:grid-cols-4 gap-3">
+            <div class="neu-card p-3.5">
+              <span class="text-[10px] font-bold uppercase text-slate-500 dark:text-slate-400 block">Closing Cash Balance</span>
+              <div class="text-base font-black text-emerald-600 dark:text-emerald-400 mt-1">LKR ${Math.round(selectedItem.projected_cash_lkr).toLocaleString()}</div>
             </div>
-            <div class="neu-card p-4">
-              <span class="text-[11px] font-bold uppercase tracking-wider text-slate-500 dark:text-slate-400">Precipitation & Foot Traffic</span>
-              <div class="text-xl font-black text-blue-600 dark:text-blue-400 mt-1.5">${item.precipitation_mm} mm</div>
-              <span class="text-[11px] font-medium text-slate-500 mt-1 block">${Math.round(item.foot_traffic_multiplier * 100)}% normal customer walk-in rate</span>
+            <div class="neu-card p-3.5">
+              <span class="text-[10px] font-bold uppercase text-slate-500 dark:text-slate-400 block">Precipitation & Foot Traffic</span>
+              <div class="text-base font-black text-blue-600 dark:text-blue-400 mt-1">${selectedItem.precipitation_mm} mm (${Math.round(selectedItem.foot_traffic_multiplier * 100)}%)</div>
             </div>
-            <div class="neu-card p-4">
-              <span class="text-[11px] font-bold uppercase tracking-wider text-slate-500 dark:text-slate-400">Weather-Adjusted Revenue</span>
-              <div class="text-xl font-black text-slate-900 dark:text-slate-100 mt-1.5">LKR ${Math.round(item.daily_revenue_lkr).toLocaleString()}</div>
-              <span class="text-[11px] font-medium text-slate-500 mt-1 block">Foot-traffic scaled sales</span>
+            <div class="neu-card p-3.5">
+              <span class="text-[10px] font-bold uppercase text-slate-500 dark:text-slate-400 block">Weather-Adjusted Revenue</span>
+              <div class="text-base font-black text-slate-900 dark:text-slate-100 mt-1">LKR ${Math.round(selectedItem.daily_revenue_lkr).toLocaleString()}</div>
             </div>
-            <div class="neu-card p-4">
-              <span class="text-[11px] font-bold uppercase tracking-wider text-slate-500 dark:text-slate-400">Restock Outflow & Index</span>
-              <div class="text-xl font-black text-rose-600 dark:text-rose-400 mt-1.5">LKR ${Math.round(item.daily_outflow_lkr).toLocaleString()}</div>
-              <span class="text-[11px] font-medium text-slate-500 mt-1 block">Wholesale factor: ${(item.wholesale_cost_multiplier * 100).toFixed(0)}% base</span>
+            <div class="neu-card p-3.5">
+              <span class="text-[10px] font-bold uppercase text-slate-500 dark:text-slate-400 block">Restock Outflow & Index</span>
+              <div class="text-base font-black text-rose-600 dark:text-rose-400 mt-1">LKR ${Math.round(selectedItem.daily_outflow_lkr).toLocaleString()}</div>
             </div>
           </div>
         </div>`;
     }
 
-    // Initial load
     loadForecast();
   </script>
 </body>

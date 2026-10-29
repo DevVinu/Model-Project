@@ -1,5 +1,5 @@
 from datetime import datetime
-from fastapi import APIRouter, Query
+from fastapi import APIRouter
 from typing import Optional
 
 from backend.config import DEFAULT_LOCATION_NAME
@@ -20,16 +20,20 @@ def get_14day_forecast(
     daily_sales: float = 45000.0,
     daily_restock: float = 34000.0,
     fixed_overhead: float = 4500.0,
+    order_reduction_pct: float = 0.0,
     simulate_low_confidence: bool = False,
 ):
     """Calculates 14-day cash-flow stress timeline, evaluates uncertainty,
 
-    and delivers actionable inventory recommendations with safe-failure gating.
+    and delivers actionable inventory recommendations with safe-failure gating
+    and interactive order-reduction simulation.
     """
+    effective_restock = daily_restock * (1.0 - max(0.0, min(order_reduction_pct, 60.0)) / 100.0)
+
     timeline_raw = scorer.calculate_14day_stress(
         starting_cash_lkr=starting_cash,
         avg_daily_sales_lkr=daily_sales,
-        avg_daily_restock_lkr=daily_restock,
+        avg_daily_restock_lkr=effective_restock,
         fixed_daily_overhead_lkr=fixed_overhead,
     )
 
@@ -71,5 +75,6 @@ def get_14day_forecast(
             "caution_days_count": yellow_count,
             "min_projected_cash_lkr": round(min_cash, 2),
             "safe_cash_buffer_retained": min_cash >= (starting_cash * 0.4),
+            "simulated_order_reduction_pct": order_reduction_pct,
         },
     )
